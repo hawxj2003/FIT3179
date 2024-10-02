@@ -1,181 +1,130 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": { "text": "Deaths by Risk Factors" },
-    "width" : 400,
+    "width": 400,
     "data": {
-    "url":
-    "https://raw.githubusercontent.com/megnugget/FIT3179/main/week10Homework/2020_Olympics_Dataset.csv"
+      "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/Week10Homework/Risk%20Factors.csv"
     },
-    "mark": "bar",
-    "params":[
-        {
-            "name" : "Country_selection",
-            "bind":{
-                "input": "select",
-                "options": [
-                    null,
-                    "Afghanistan",
-                    "Albania",
-                    "Algeria",
-                    "American Samoa",
-                    "Andorra",
-                    "Angola",
-                    "Antigua and Barbuda",
-                    "Argentina",
-                    "Armenia",
-                    "Aruba",
-                    "Australia",
-                    "Austria",
-                    "Azerbaijan",
-                    "Bahamas",
-                    "Bahrain",
-                    "Bangladesh",
-                    "Barbados",
-                    "Belarus",
-                    "Belgium",
-                    "Belize",
-                    "Benin",
-                    "Bermuda",
-                    "Bhutan",
-                    "Bolivia",
-                    "Bosnia and Herzegovina",
-                    "Botswana",
-                    "Brazil",
-                    "British Virgin Islands",
-                    "Brunei",
-                    "Bulgaria",
-                    "Burkina Faso",
-                    "Burundi",
-                    "Cambodia",
-                    "Cameroon",
-                    "Canada",
-                    "Cape Verde",
-                    "Cayman Islands",
-                    "Chad",
-                    "China",
-                    "Chinese Taipei",
-                    "Colombia",
-                    "Comoros",
-                    "Cook Islands",
-                    "Czech Republic",
-                    "Denmark",
-                    "Dominican Republic",
-                    "Egypt",
-                    "France",
-                    "Germany",
-                    "Great Britain",
-                    "Hungary",
-                    "India",
-                    "Indonesia",
-                    "Ireland",
-                    "Italy",
-                    "Israel",
-                    "Japan",
-                    "Mexico",
-                    "Malaysia",
-                    "Netherlands",
-                    "New Zealand",
-                    "Norway",
-                    "Poland",
-                    "Romania",
-                    "Russia",
-                    "South Africa",
-                    "South Korea",
-                    "Switzerland",
-                    "Ukraine",
-                    "United States",
-                    "Zambia"
-                   
-                ],
-                "labels": [
-                    "Show All",
-                    "Afghanistan",
-                    "Albania",
-                    "Algeria",
-                    "American Samoa",
-                    "Andorra",
-                    "Angola",
-                    "Antigua and Barbuda",
-                    "Argentina",
-                    "Armenia",
-                    "Aruba",
-                    "Australia",
-                    "Austria",
-                    "Azerbaijan",
-                    "Bahamas",
-                    "Bahrain",
-                    "Bangladesh",
-                    "Barbados",
-                    "Belarus",
-                    "Belgium",
-                    "Belize",
-                    "Benin",
-                    "Bermuda",
-                    "Bhutan",
-                    "Bolivia",
-                    "Bosnia and Herzegovina",
-                    "Botswana",
-                    "Brazil",
-                    "British Virgin Islands",
-                    "Brunei",
-                    "Bulgaria",
-                    "Burkina Faso",
-                    "Burundi",
-                    "Cambodia",
-                    "Cameroon",
-                    "Canada",
-                    "Cape Verde",
-                    "Cayman Islands",
-                    "Chad",
-                    "China",
-                    "Chinese Taipei",
-                    "Colombia",
-                    "Comoros",
-                    "Cook Islands",
-                    "Czech Republic",
-                    "Denmark",
-                    "Dominican Republic",
-                    "Egypt",
-                    "France",
-                    "Germany",
-                    "Great Britain",
-                    "Hungary",
-                    "India",
-                    "Indonesia",
-                    "Ireland",
-                    "Italy",
-                    "Israel",
-                    "Japan",
-                    "Mexico",
-                    "Malaysia",
-                    "Netherlands",
-                    "New Zealand",
-                    "Norway",
-                    "Poland",
-                    "Romania",
-                    "Russia",
-                    "South Africa",
-                    "South Korea",
-                    "Switzerland",
-                    "Ukraine",
-                    "United States",
-                    "Zambia"
-                ],
-                "name": "Country Selection : "
-            }
+    "params": [
+      {
+        "name": "Deaths by Risk Factor",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "High blood pressure",
+            "Air pollution (outdoor & indoor)",
+            "Smoking",
+            "High blood sugar",
+            "Outdoor particulate matter pollution",
+            "Obesity",
+            "High cholesterol",
+            "Indoor air pollution",
+            "Diet high in sodium",
+            "Alcohol use",
+            "Diet low in fruits",
+            "Diet low in whole grains",
+            "Low birthweight",
+            "Secondhand smoke",
+            "Unsafe sex",
+            "Diet low in vegetables",
+            "Unsafe water source",
+            "Diet low in nuts and seeds",
+            "Low physical activity",
+            "Unsafe sanitation",
+            "Child wasting",
+            "Drug use",
+            "Low bone mineral density",
+            "No access to handwashing facility",
+            "Child stunting",
+            "Non-exclusive breastfeeding",
+            "Iron deficiency",
+            "Vitamin A deficiency"
+          ],
+          "labels": [
+            "Show All",
+            "High blood pressure",
+            "Air pollution (outdoor & indoor)",
+            "Smoking",
+            "High blood sugar",
+            "Outdoor particulate matter pollution",
+            "Obesity",
+            "High cholesterol",
+            "Indoor air pollution",
+            "Diet high in sodium",
+            "Alcohol use",
+            "Diet low in fruits",
+            "Diet low in whole grains",
+            "Low birthweight",
+            "Secondhand smoke",
+            "Unsafe sex",
+            "Diet low in vegetables",
+            "Unsafe water source",
+            "Diet low in nuts and seeds",
+            "Low physical activity",
+            "Unsafe sanitation",
+            "Child wasting",
+            "Drug use",
+            "Low bone mineral density",
+            "No access to handwashing facility",
+            "Child stunting",
+            "Non-exclusive breastfeeding",
+            "Iron deficiency",
+            "Vitamin A deficiency"
+          ],
+          "name": "Risk Factor Selection : "
         }
+      }
     ],
     "transform": [
-        {"filter" :"Country_selection == null || datum.Country == Country_selection"}
+      {
+        "filter": "RiskFactor_selection == null || datum.RiskFactor == RiskFactor_selection"
+      }
     ],
     "encoding": {
-    "x": { "aggregate": "count", "field": "Country","title": "Number of Athletes" },
-    "y": { "field": "Country" },
-    "tooltip": [
-        {"field": "Country", "type": "nominal"},
-        {"field": "Number of Athletes","type": "quantitative","aggregate": "count"}
+      "y": {
+        "field": "Deaths by Risk Factor",
+        "type": "nominal",
+        "title": "Risk Factors"
+      },
+      "x": {
+        "field": "Estimated Deaths (per 100,000)",
+        "type": "quantitative",
+        "title": "Number of Deaths"
+      },
+      "tooltip": [
+        {
+          "field": "Deaths by Risk Factor",
+          "type": "nominal",
+          "title": "Risk Factor"
+        },
+        {
+          "field": "Estimated Deaths (per 100,000)",
+          "type": "quantitative",
+          "title": "Number of Deaths"
+        }
+      ]
+    },
+    "layer": [
+      {
+        "mark": "bar"
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "dx": 4
+        },
+        "encoding": {
+          "text": {
+            "field": "Estimated Deaths (per 100,000)",
+            "type": "quantitative",
+            "format": ".0f"
+          },
+          "color": { "value": "black" }
+        }
+      }
     ]
-
-    }
-    }
-   
+  }
+  

@@ -1,0 +1,8 @@
+#bar_chart{
+    max-height: 400px;
+    overflow: scroll;
+}
+.col1{
+  width : 50%;
+  float : left ;
+}
