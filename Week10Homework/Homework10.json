@@ -1,96 +1,129 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/xying0613/testing/main/complete.json"},
-    "title":{"text":"Interactive Scatterplot Visualising Countries and Prevalence of Overweight and Obesity Adults", "fontSize":20},
-    "width": 800,
-    "height": 500,    
+    "title": { "text": "Deaths by Risk Factors" },
+    "width": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/Week10Homework/Risk%20Factors.csv"
+    },
+    "params": [
+      {
+        "name": "Deaths by Risk Factor",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "High blood pressure",
+            "Air pollution (outdoor & indoor)",
+            "Smoking",
+            "High blood sugar",
+            "Outdoor particulate matter pollution",
+            "Obesity",
+            "High cholesterol",
+            "Indoor air pollution",
+            "Diet high in sodium",
+            "Alcohol use",
+            "Diet low in fruits",
+            "Diet low in whole grains",
+            "Low birthweight",
+            "Secondhand smoke",
+            "Unsafe sex",
+            "Diet low in vegetables",
+            "Unsafe water source",
+            "Diet low in nuts and seeds",
+            "Low physical activity",
+            "Unsafe sanitation",
+            "Child wasting",
+            "Drug use",
+            "Low bone mineral density",
+            "No access to handwashing facility",
+            "Child stunting",
+            "Non-exclusive breastfeeding",
+            "Iron deficiency",
+            "Vitamin A deficiency"
+          ],
+          "labels": [
+            "Show All",
+            "High blood pressure",
+            "Air pollution (outdoor & indoor)",
+            "Smoking",
+            "High blood sugar",
+            "Outdoor particulate matter pollution",
+            "Obesity",
+            "High cholesterol",
+            "Indoor air pollution",
+            "Diet high in sodium",
+            "Alcohol use",
+            "Diet low in fruits",
+            "Diet low in whole grains",
+            "Low birthweight",
+            "Secondhand smoke",
+            "Unsafe sex",
+            "Diet low in vegetables",
+            "Unsafe water source",
+            "Diet low in nuts and seeds",
+            "Low physical activity",
+            "Unsafe sanitation",
+            "Child wasting",
+            "Drug use",
+            "Low bone mineral density",
+            "No access to handwashing facility",
+            "Child stunting",
+            "Non-exclusive breastfeeding",
+            "Iron deficiency",
+            "Vitamin A deficiency"
+          ],
+          "name": "Risk Factor Selection : "
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter": "RiskFactor_selection == null || datum['Deaths by Risk Factor'] == RiskFactor_selection"
+      }
+    ],
+    "encoding": {
+      "y": {
+        "field": "Deaths by Risk Factor",
+        "type": "nominal",
+        "title": "Risk Factors"
+      },
+      "x": {
+        "field": "Estimated Deaths (per 100,000)",
+        "type": "quantitative",
+        "title": "Number of Deaths"
+      },
+      "tooltip": [
+        {
+          "field": "Deaths by Risk Factor",
+          "type": "nominal",
+          "title": "Risk Factor"
+        },
+        {
+          "field": "Estimated Deaths (per 100,000)",
+          "type": "quantitative",
+          "title": "Number of Deaths"
+        }
+      ]
+    },
     "layer": [
       {
-        "encoding": {
-          "x": {
-            "field": "Both(Obesity)",
-            "type": "quantitative",
-            "axis": {"tickCount": 5, "title": "Obesity Prevalence", "titleFontSize":15}
-          },
-          "y": {
-            "field": "Both(Overweight)",
-            "type": "quantitative",
-            "axis": {"tickCount": 5, "title": "Overweight Prevalence", "titleFontSize":15}
-          }
+        "mark": "bar"
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "dx": 4
         },
-        
-        "layer": [
-          {"params": [
-              {
-                "name": "year_select",
-                "value": [{"Year": 1990}],
-                "select": {
-                  "type": "point",
-                  "fields": ["Year"]
-                },
-                "bind": {
-                  "name": "Year: ",
-                  "input": "range",
-                  "min": 1990, "max": 2022, "step": 1
-                }
-              },
-              {
-                "name": "hovered",
-                "select": {
-                  "type": "point",
-                  "fields": ["Entity"],
-                  "toggle": false,
-                  "on": "mouseover"
-                }
-              },
-              {
-                "name": "clicked",
-                "select": {"type": "point", "fields": ["Entity"]}
-              }
-            ],
-  
-            "transform": [
-              {"filter": {"param": "year_select"}}
-              ],
-            
-            "mark": {
-              "type": "circle", 
-              "size": 100
-            },
-            "encoding": {
-              "fillOpacity": {
-                "condition": {"param": "clicked", "value": 1},
-                "value": 0.3
-              },
-              "color": {
-                "field": "WHO region",
-                "title": "Region",
-                "scale": {
-                  "range":["#4c78a8","#f781bf","#eeca3b","#54a24b","#d62728","#6a3d9a"]
-                }
-              },
-              "tooltip":[
-                {"field":"Both(Overweight)","type": "quantitative", "title":"Overweight Prevalence"},
-                {"field":"Both(Obesity)","type": "quantitative", "title":"Obesity Prevalence"}
-                ]
-            }
+        "encoding": {
+          "text": {
+            "field": "Estimated Deaths (per 100,000)",
+            "type": "quantitative",
+            "format": ".0f"
           },
-  
-          {
-            "transform": [{"filter":{"param": "year_select"}}],
-            "mark":{
-              "type":"text",
-              "yOffset": -12,
-              "fontSize": 12},
-            "encoding": {
-              "text":{"field":"Entity"},
-              "opacity":{
-                "condition":{
-                  "test":"datum.Entity=='Malaysia'", "value":1},"value":0
-                  }
-            }
-          }
-        ]
+          "color": { "value": "black" }
+        }
       }
     ]
   }
