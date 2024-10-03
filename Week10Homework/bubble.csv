@@ -1,4 +1,4 @@
-Year,Country,Population,Region,Prevalence of obesity (Both sexes),Prevalence of obesity (Male),Prevalence of obesity (Female),Prevalence of overweight (Both sexes),Prevalence of overweight (Male),Prevalence of overweight (Female)
+Year,Country,Population,Region,Both(Obesity),Male(Obesity),Female(Obesity),Both(Overweight),Male(Overweight),Female(Overweight)
 2022,Afghanistan,41128771,Eastern Mediterranean,19.2,14.5,23.7,48.6,44.1,52.7
 2021,Afghanistan,40099462,Eastern Mediterranean,18.2,13.8,22.4,47,42.8,50.9
 2020,Afghanistan,38972230,Eastern Mediterranean,17.2,13.1,21.1,45.4,41.5,48.9
