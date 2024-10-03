@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": "Interactive Scatterplot Visualising Countries and Prevalence of Overweight and Obesity Adults",
+    "data": {
+      "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/Week10Homework/bubble.csv"
+    },
+    "mark": "circle",
+    "encoding": {
+      "x": {
+        "field": "Prevalence of obesity (Both sexes)",
+        "type": "quantitative",
+        "title": "Obesity Prevalence"
+      },
+      "y": {
+        "field": "Prevalence of overweight (Both sexes)",
+        "type": "quantitative",
+        "title": "Overweight Prevalence"
+      },
+      "color": {
+        "field": "Region",
+        "type": "nominal",
+        "title": "Region"
+      },
+      "size": {
+        "field": "Population",
+        "type": "quantitative",
+        "title": "Population Size"
+      }
+    }
+  }
+  
