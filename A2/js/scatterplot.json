@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/data/complete.json"},
+    "data": {"url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/A2/data/complete.json"},
     "width": 800,
     "height": 500,    
     "layer": [
