@@ -22,19 +22,19 @@
 2022,Americas,Bermuda,33,23.8,36.16
 2022,South-East Asia,Bhutan,12.2,9.3,36.17
 2022,Americas,Bolivia,28.7,22.7,36.18
-2022,Europe,Bosnia and Herzegovina,21.2,21.5,36.19
+2022,Europe,Bosnia and Herz,21.2,21.5,36.19
 2022,Africa,Botswana,18.3,8.4,36.2
 2022,Americas,Brazil,28.1,24.3,36.21
 2022,Western Pacific,Brunei,31.7,30,36.22
 2022,Europe,Bulgaria,20.6,23.1,36.23
 2022,Africa,Burkina Faso,6.7,4,36.24
 2022,Africa,Burundi,5,6.1,36.25
-2022,Africa,Cote d'Ivoire,11.6,7.7,36.26
+2022,Africa,Côte d'Ivoire,11.6,7.7,36.26
 2022,Africa,Cape Verde,15.8,8.4,36.27
 2022,Western Pacific,Cambodia,4.4,3,36.28
 2022,Africa,Cameroon,14.9,9.3,36.29
 2022,Americas,Canada,26.2,27.6,36.3
-2022,Africa,Central African Republic,9.3,6.1,36.31
+2022,Africa,Central African Rep.,9.3,6.1,36.31
 2022,Africa,Chad,6.7,7.4,36.32
 2022,Americas,Chile,38.9,33.4,36.33
 2022,Western Pacific,China,8.3,8.8,36.34
@@ -46,17 +46,17 @@
 2022,Europe,Croatia,30.6,33.6,36.4
 2022,Americas,Cuba,21.8,18.5,36.41
 2022,Europe,Cyprus,22.9,25.5,36.42
-2022,Europe,Czech Republic,26,29.5,36.43
+2022,Europe,Czechia,26,29.5,36.43
 2022,South-East Asia,North Korea,10.8,8.5,36.44
-2022,South-East Asia,Democratic Republic of the Congo,6.6,4.2,36.45
+2022,South-East Asia,Dem. Rep. Congo,6.6,4.2,36.45
 2022,Europe,Denmark,13.3,15.3,36.46
 2022,Eastern Mediterranean,Djibouti,11.3,6.1,36.47
 2022,Americas,Dominica,31.3,17.9,36.48
-2022,Americas,Dominican Republic,29.3,23.2,36.49
+2022,Americas,Dominican Rep.,29.3,23.2,36.49
 2022,Americas,Ecuador,27.4,22.3,36.5
 2022,Eastern Mediterranean,Egypt,44.3,31.3,36.51
 2022,Americas,El Salvador,30.9,22.8,36.52
-2022,Africa,Equatorial Guinea,17.7,7.8,36.53
+2022,Africa,Eq. Guinea,17.7,7.8,36.53
 2022,Africa,Eritrea,4.8,2.8,36.54
 2022,Europe,Estonia,22.2,22.4,36.55
 2022,Africa,Eswatini,30.1,15,36.56
@@ -129,7 +129,7 @@
 2022,Africa,Niger,6,4.4,36.123
 2022,Africa,Nigeria,12.4,8.2,36.124
 2022,Western Pacific,Niue,66.6,62.7,36.125
-2022,Europe,Macedonia,27.5,28.1,36.126
+2022,Europe,North Macedonia,27.5,28.1,36.126
 2022,Europe,Norway,19.1,20.5,36.127
 2022,Eastern Mediterranean,Palestine,37.6,28.8,36.128
 2022,Eastern Mediterranean,Oman,31.1,26.2,36.129
@@ -163,9 +163,9 @@
 2022,Europe,Slovakia,26.8,30.4,36.157
 2022,Europe,Slovenia,19.4,24.7,36.158
 2022,Western Pacific,Solomon Islands,22.6,17.5,36.159
-2022,Eastern Mediterranean,Somalia,14.6,5.8,36.16
+2022,Eastern Mediterranean,Somaliland,14.6,5.8,36.16
 2022,Africa,South Africa,30.8,13.9,36.161
-2022,Eastern Mediterranean,South Sudan,8.6,5.1,36.162
+2022,Eastern Mediterranean,S. Sudan,8.6,5.1,36.162
 2022,Europe,Spain,15.7,18.7,36.163
 2022,South-East Asia,Sri Lanka,10.6,6.6,36.164
 2022,Eastern Mediterranean,Sudan,17,11.4,36.165
@@ -189,7 +189,7 @@
 2022,Eastern Mediterranean,United Arab Emirates,32.1,28.6,36.183
 2022,Europe,United Kingdom,26.8,26.1,36.184
 2022,Africa,Tanzania,12.6,6.5,36.185
-2022,Americas,United States,42,40.8,36.186
+2022,Americas,United States of America,42,40.8,36.186
 2022,Americas,Uruguay,33.3,30.7,36.187
 2022,Europe,Uzbekistan,30,26.8,36.188
 2022,Western Pacific,Vanuatu,21.3,16.3,36.189
