@@ -1,0 +1,97 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/Week10Homework/bubble.csv"},
+    "title":{"text":"Interactive Scatterplot Visualising Countries and Prevalence of Overweight and Obesity Adults", "fontSize":20},
+    "width": 800,
+    "height": 500,    
+    "layer": [
+      {
+        "encoding": {
+          "x": {
+            "field": "Prevalence of obesity (Both sexes)",
+            "type": "quantitative",
+            "axis": {"tickCount": 5, "title": "Obesity Prevalence", "titleFontSize":15}
+          },
+          "y": {
+            "field": "Prevalence of overweight (Both sexes)",
+            "type": "quantitative",
+            "axis": {"tickCount": 5, "title": "Overweight Prevalence", "titleFontSize":15}
+          }
+        },
+        
+        "layer": [
+          {"params": [
+              {
+                "name": "year_select",
+                "value": [{"Year": 1975}],
+                "select": {
+                  "type": "point",
+                  "fields": ["Year"]
+                },
+                "bind": {
+                  "name": "Year: ",
+                  "input": "range",
+                  "min": 1990, "max": 2022, "step": 1
+                }
+              },
+              {
+                "name": "hovered",
+                "select": {
+                  "type": "point",
+                  "fields": ["Country"],
+                  "toggle": false,
+                  "on": "mouseover"
+                }
+              },
+              {
+                "name": "clicked",
+                "select": {"type": "point", "fields": ["Country"]}
+              }
+            ],
+  
+            "transform": [
+              {"filter": {"param": "year_select"}}
+              ],
+            
+            "mark": {
+              "type": "circle", 
+              "size": 100
+            },
+            "encoding": {
+              "fillOpacity": {
+                "condition": {"param": "clicked", "value": 1},
+                "value": 0.3
+              },
+              "color": {
+                "field": "Region",
+                "title": "Region",
+                "scale": {
+                  "range":["#4c78a8","#f781bf","#eeca3b","#54a24b","#d62728","#6a3d9a"]
+                }
+              },
+              "tooltip":[
+                {"field":"Prevalence of overweight (Both sexes)","type": "quantitative", "title":"Overweight Prevalence"},
+                {"field":"Prevalence of obesity (Both sexes)","type": "quantitative", "title":"Obesity Prevalence"}
+                ]
+            }
+          },
+  
+          {
+            "transform": [{"filter":{"param": "year_select"}}],
+            "mark":{
+              "type":"text",
+              "yOffset": -12,
+              "fontSize": 12},
+            "encoding": {
+              "text":{"field":"Country"},
+              "opacity":{
+                "condition":{
+                  "test":"datum.Country=='Malaysia'", "value":1},"value":0
+                  }
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
