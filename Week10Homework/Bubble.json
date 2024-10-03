@@ -1,12 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/Week10Homework/bubble.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/data/complete.json"},
   "width": 800,
   "height": 500,    
   "layer": [
     {
       "transform": [
-        {"filter": {"field": "Country", "equal": "Afghanistan"}},
+        {"filter": {"field": "Entity", "equal": "Afghanistan"}},
         {"filter": {"param": "year_select"}}
       ],
       "mark": {
@@ -24,14 +24,14 @@
         "x": {
           "field": "Both(Obesity)",
           "type": "quantitative",
-          "axis": {"tickCount": 5, "title": "Obesity Prevalence", "titleFontSize":15}
-
+          "axis": {"tickCount": 5, "title": "Obesity Prevalence", "titleFontSize":15},
+          "scale": {"domain": [0,70]}
         },
         "y": {
           "field": "Both(Overweight)",
           "type": "quantitative",
-          "axis": {"tickCount": 5, "title": "Overweight Prevalence", "titleFontSize":15}
-
+          "axis": {"tickCount": 5, "title": "Overweight Prevalence", "titleFontSize":15},
+          "scale": {"domain": [0,100]}
         }
       },
       
@@ -44,7 +44,7 @@
             "strokeCap": "round"
           },
           "encoding": {
-            "detail": {"field": "Country"},
+            "detail": {"field": "Entity"},
             "order": {"field": "Year"},
             "opacity": {
               "condition": {
@@ -76,7 +76,7 @@
             },
             {
               "name": "continent_selection",
-              "select": {"type":"point", "fields":["Region"]},
+              "select": {"type":"point", "fields":["WHO region"]},
               "bind": {
                 "input": "select",
                 "options": [
@@ -104,14 +104,14 @@
               "name": "hovered",
               "select": {
                 "type": "point",
-                "fields": ["Country"],
+                "fields": ["Entity"],
                 "toggle": false,
                 "on": "mouseover"
               }
             },
             {
               "name": "clicked",
-              "select": {"type": "point", "fields": ["Country"]}
+              "select": {"type": "point", "fields": ["Entity"]}
             }
           ],
 
@@ -143,9 +143,9 @@
               "value":0
             },
             "size":{
-              "field": "Population",
+              "field": "Count",
               "type": "quantitative",
-              "title":"Population Size",
+              "title":"Population",
               "scale": {
                 "type": "threshold",
                 "domain": [1000000, 10000000, 50000000, 100000000],
@@ -160,7 +160,7 @@
               }
             },
             "color": {
-              "field": "Region",
+              "field": "WHO region",
               "title": "Region",
               "scale": {
                 "range":["#D81B60","#1E88E5","#FFC107","#1BCAD8","#FF7300","#9467BD"]
@@ -173,7 +173,7 @@
               }
             },
             "tooltip":[
-              {"field":"Country", "title":"Country"},
+              {"field":"Entity", "title":"Country"},
               {"field":"Both(Overweight)","type": "quantitative", "title":"Overweight Prevalence"},
               {"field":"Both(Obesity)","type": "quantitative", "title":"Obesity Prevalence"}
               ]
@@ -186,7 +186,7 @@
           ],
 
           "encoding": {
-            "text": {"field": "Country"},
+            "text": {"field": "Entity"},
             "color": {"value": "black"}
           },
 
@@ -210,7 +210,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'Malaysia'", "value": "Malaysia"
+                              "test": "datum['Entity'] === 'Malaysia'", "value": "Malaysia"
                           }
                       }
                   }
@@ -235,7 +235,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'Australia'", "value": "Australia"
+                              "test": "datum['Entity'] === 'Australia'", "value": "Australia"
                           }
                       }
                   }
@@ -260,7 +260,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'Mexico'", "value": "Mexico"
+                              "test": "datum['Entity'] === 'Mexico'", "value": "Mexico"
                           }
                       }
                   }
@@ -285,7 +285,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'France'", "value": "France"
+                              "test": "datum['Entity'] === 'France'", "value": "France"
                           }
                       }
                   }
@@ -310,7 +310,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'Iran'", "value": "Iran"
+                              "test": "datum['Entity'] === 'Iran'", "value": "Iran"
                           }
                       }
                   }
@@ -335,7 +335,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'South Africa'", "value": "South Africa"
+                              "test": "datum['Entity'] === 'South Africa'", "value": "South Africa"
                           }
                       }
                   }
@@ -360,7 +360,7 @@
                         },
                       "text":{
                           "condition":{
-                              "test": "datum['Country'] === 'North Korea'", "value": "North Korea"
+                              "test": "datum['Entity'] === 'North Korea'", "value": "North Korea"
                           }
                       }
                   }
