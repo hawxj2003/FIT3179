@@ -1,4 +1,4 @@
-Year,Region,Country,Prevalence of overweight (Both sexes),Prevalence of overweight (Male),Prevalence of overweight (Female)
+Year,Region,Country,Both,Male,Female
 2022,Eastern Mediterranean,Afghanistan,48.6,44.1,52.7
 2021,Eastern Mediterranean,Afghanistan,47,42.8,50.9
 2020,Eastern Mediterranean,Afghanistan,45.4,41.5,48.9
@@ -5741,39 +5741,39 @@ Year,Region,Country,Prevalence of overweight (Both sexes),Prevalence of overweig
 1992,Eastern Mediterranean,Syrian Arab Republic,55.7,53.1,58.3
 1991,Eastern Mediterranean,Syrian Arab Republic,54.9,52.2,57.7
 1990,Eastern Mediterranean,Syrian Arab Republic,54.2,51.4,57
-2022,Europe,Türkiye,67.6,65.2,69.7
-2021,Europe,Türkiye,67.3,64.9,69.5
-2020,Europe,Türkiye,67.1,64.7,69.2
-2019,Europe,Türkiye,66.8,64.5,68.9
-2018,Europe,Türkiye,66.6,64.3,68.6
-2017,Europe,Türkiye,66.3,64,68.3
-2016,Europe,Türkiye,66,63.7,68.1
-2015,Europe,Türkiye,65.7,63.4,67.8
-2014,Europe,Türkiye,65.4,63.1,67.5
-2013,Europe,Türkiye,65.1,62.7,67.2
-2012,Europe,Türkiye,64.8,62.4,66.9
-2011,Europe,Türkiye,64.5,62,66.7
-2010,Europe,Türkiye,64.2,61.7,66.5
-2009,Europe,Türkiye,63.9,61.3,66.3
-2008,Europe,Türkiye,63.6,60.9,66.1
-2007,Europe,Türkiye,63.3,60.5,65.9
-2006,Europe,Türkiye,63,60,65.7
-2005,Europe,Türkiye,62.6,59.5,65.5
-2004,Europe,Türkiye,62.2,58.9,65.2
-2003,Europe,Türkiye,61.7,58.3,64.9
-2002,Europe,Türkiye,61.2,57.6,64.5
-2001,Europe,Türkiye,60.6,56.8,64.1
-2000,Europe,Türkiye,60,56,63.7
-1999,Europe,Türkiye,59.4,55.2,63.3
-1998,Europe,Türkiye,58.7,54.3,62.8
-1997,Europe,Türkiye,58,53.4,62.3
-1996,Europe,Türkiye,57.3,52.5,61.8
-1995,Europe,Türkiye,56.6,51.5,61.4
-1994,Europe,Türkiye,55.8,50.5,60.9
-1993,Europe,Türkiye,55.1,49.5,60.4
-1992,Europe,Türkiye,54.3,48.4,59.9
-1991,Europe,Türkiye,53.5,47.4,59.4
-1990,Europe,Türkiye,52.8,46.3,58.9
+2022,Europe,Tï¿½rkiye,67.6,65.2,69.7
+2021,Europe,Tï¿½rkiye,67.3,64.9,69.5
+2020,Europe,Tï¿½rkiye,67.1,64.7,69.2
+2019,Europe,Tï¿½rkiye,66.8,64.5,68.9
+2018,Europe,Tï¿½rkiye,66.6,64.3,68.6
+2017,Europe,Tï¿½rkiye,66.3,64,68.3
+2016,Europe,Tï¿½rkiye,66,63.7,68.1
+2015,Europe,Tï¿½rkiye,65.7,63.4,67.8
+2014,Europe,Tï¿½rkiye,65.4,63.1,67.5
+2013,Europe,Tï¿½rkiye,65.1,62.7,67.2
+2012,Europe,Tï¿½rkiye,64.8,62.4,66.9
+2011,Europe,Tï¿½rkiye,64.5,62,66.7
+2010,Europe,Tï¿½rkiye,64.2,61.7,66.5
+2009,Europe,Tï¿½rkiye,63.9,61.3,66.3
+2008,Europe,Tï¿½rkiye,63.6,60.9,66.1
+2007,Europe,Tï¿½rkiye,63.3,60.5,65.9
+2006,Europe,Tï¿½rkiye,63,60,65.7
+2005,Europe,Tï¿½rkiye,62.6,59.5,65.5
+2004,Europe,Tï¿½rkiye,62.2,58.9,65.2
+2003,Europe,Tï¿½rkiye,61.7,58.3,64.9
+2002,Europe,Tï¿½rkiye,61.2,57.6,64.5
+2001,Europe,Tï¿½rkiye,60.6,56.8,64.1
+2000,Europe,Tï¿½rkiye,60,56,63.7
+1999,Europe,Tï¿½rkiye,59.4,55.2,63.3
+1998,Europe,Tï¿½rkiye,58.7,54.3,62.8
+1997,Europe,Tï¿½rkiye,58,53.4,62.3
+1996,Europe,Tï¿½rkiye,57.3,52.5,61.8
+1995,Europe,Tï¿½rkiye,56.6,51.5,61.4
+1994,Europe,Tï¿½rkiye,55.8,50.5,60.9
+1993,Europe,Tï¿½rkiye,55.1,49.5,60.4
+1992,Europe,Tï¿½rkiye,54.3,48.4,59.9
+1991,Europe,Tï¿½rkiye,53.5,47.4,59.4
+1990,Europe,Tï¿½rkiye,52.8,46.3,58.9
 2022,Europe,Tajikistan,58.9,60.6,57
 2021,Europe,Tajikistan,58,59.8,56
 2020,Europe,Tajikistan,57.1,59.1,55

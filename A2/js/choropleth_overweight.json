@@ -100,7 +100,7 @@
             "lookup": "properties.NAME",
             "from": {
               "data": {
-                "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/A2/data/obesity_countries_2022.csv"
+                "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/A2/data/overweight_countries_2022.csv"
               },
               "key": "Country",
               "fields": ["Both"]
