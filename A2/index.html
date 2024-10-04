@@ -59,6 +59,8 @@
       </p>
     </div>
 
+    <div id="barchart" style="padding-left: 2.7%; text-align: center;"></div>
+
 
     <!-- World -->
     <div id="world"><br/><br/></div>
@@ -190,6 +192,9 @@
     </p>
 
     <script type="text/javascript">
+      var barchart = 'js/barchart.json';
+      vegaEmbed('#barchart', barchart);
+
       var multiples_obesity = 'js/multiples_obesity.json';
       vegaEmbed('#multiples_obesity', multiples_obesity);
 
