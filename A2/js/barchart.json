@@ -39,7 +39,7 @@
         "x": {
           "field": "Estimated Deaths (per 100,000)",
           "type": "quantitative",
-          "title": "Number of Deaths"
+          "title": "Number of Deaths (per 100,000)"
         },
         "color": {
           "condition": {
@@ -70,6 +70,14 @@
         "dx": 4
       },
       "encoding": {
+        "x": {
+          "field": "Estimated Deaths (per 100,000)",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Deaths by Risk Factor",
+          "type": "nominal"
+        },
         "text": {
           "field": "Estimated Deaths (per 100,000)",
           "type": "quantitative",

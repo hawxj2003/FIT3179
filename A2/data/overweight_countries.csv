@@ -725,72 +725,72 @@ Year,Region,Country,Both,Male,Female
 1992,South-East Asia,Bhutan,14.3,13.3,15.3
 1991,South-East Asia,Bhutan,13.5,12.7,14.4
 1990,South-East Asia,Bhutan,12.8,12.2,13.6
-2022,Americas,Bolivia (Plurinational State of),65.1,61.4,68.7
-2021,Americas,Bolivia (Plurinational State of),64.2,60.3,67.9
-2020,Americas,Bolivia (Plurinational State of),63.2,59.2,67.1
-2019,Americas,Bolivia (Plurinational State of),62.3,58,66.3
-2018,Americas,Bolivia (Plurinational State of),61.3,56.9,65.5
-2017,Americas,Bolivia (Plurinational State of),60.3,55.8,64.7
-2016,Americas,Bolivia (Plurinational State of),59.4,54.7,63.8
-2015,Americas,Bolivia (Plurinational State of),58.4,53.6,63
-2014,Americas,Bolivia (Plurinational State of),57.4,52.5,62.2
-2013,Americas,Bolivia (Plurinational State of),56.4,51.4,61.3
-2012,Americas,Bolivia (Plurinational State of),55.4,50.2,60.5
-2011,Americas,Bolivia (Plurinational State of),54.4,49.1,59.6
-2010,Americas,Bolivia (Plurinational State of),53.4,47.9,58.8
-2009,Americas,Bolivia (Plurinational State of),52.4,46.7,58
-2008,Americas,Bolivia (Plurinational State of),51.4,45.5,57.1
-2007,Americas,Bolivia (Plurinational State of),50.4,44.4,56.3
-2006,Americas,Bolivia (Plurinational State of),49.4,43.2,55.5
-2005,Americas,Bolivia (Plurinational State of),48.4,42.1,54.7
-2004,Americas,Bolivia (Plurinational State of),47.5,41,53.9
-2003,Americas,Bolivia (Plurinational State of),46.5,40,53
-2002,Americas,Bolivia (Plurinational State of),45.6,38.9,52.2
-2001,Americas,Bolivia (Plurinational State of),44.6,37.9,51.3
-2000,Americas,Bolivia (Plurinational State of),43.7,36.9,50.4
-1999,Americas,Bolivia (Plurinational State of),42.7,35.9,49.4
-1998,Americas,Bolivia (Plurinational State of),41.8,35,48.5
-1997,Americas,Bolivia (Plurinational State of),40.8,34.1,47.5
-1996,Americas,Bolivia (Plurinational State of),39.9,33.2,46.5
-1995,Americas,Bolivia (Plurinational State of),39,32.3,45.5
-1994,Americas,Bolivia (Plurinational State of),38.1,31.5,44.6
-1993,Americas,Bolivia (Plurinational State of),37.3,30.6,43.7
-1992,Americas,Bolivia (Plurinational State of),36.4,29.8,42.8
-1991,Americas,Bolivia (Plurinational State of),35.6,29.1,41.9
-1990,Americas,Bolivia (Plurinational State of),34.8,28.3,41
-2022,Europe,Bosnia and Herzegovina,56.9,66.6,46.6
-2021,Europe,Bosnia and Herzegovina,56.5,66,46.5
-2020,Europe,Bosnia and Herzegovina,56.2,65.5,46.5
-2019,Europe,Bosnia and Herzegovina,55.9,64.9,46.4
-2018,Europe,Bosnia and Herzegovina,55.6,64.4,46.3
-2017,Europe,Bosnia and Herzegovina,55.2,63.8,46.3
-2016,Europe,Bosnia and Herzegovina,54.9,63.2,46.2
-2015,Europe,Bosnia and Herzegovina,54.6,62.7,46.1
-2014,Europe,Bosnia and Herzegovina,54.2,62.1,46
-2013,Europe,Bosnia and Herzegovina,53.9,61.6,46
-2012,Europe,Bosnia and Herzegovina,53.6,61,45.9
-2011,Europe,Bosnia and Herzegovina,53.3,60.5,45.8
-2010,Europe,Bosnia and Herzegovina,53,59.9,45.8
-2009,Europe,Bosnia and Herzegovina,52.7,59.3,45.7
-2008,Europe,Bosnia and Herzegovina,52.3,58.7,45.7
-2007,Europe,Bosnia and Herzegovina,52,58,45.6
-2006,Europe,Bosnia and Herzegovina,51.6,57.3,45.6
-2005,Europe,Bosnia and Herzegovina,51.2,56.6,45.5
-2004,Europe,Bosnia and Herzegovina,50.9,55.9,45.4
-2003,Europe,Bosnia and Herzegovina,50.5,55.2,45.4
-2002,Europe,Bosnia and Herzegovina,50.1,54.5,45.3
-2001,Europe,Bosnia and Herzegovina,49.7,53.8,45.2
-2000,Europe,Bosnia and Herzegovina,49.4,53.2,45.2
-1999,Europe,Bosnia and Herzegovina,49.1,52.6,45.1
-1998,Europe,Bosnia and Herzegovina,48.8,52,45
-1997,Europe,Bosnia and Herzegovina,48.5,51.5,45
-1996,Europe,Bosnia and Herzegovina,48.3,51.1,45
-1995,Europe,Bosnia and Herzegovina,48.1,50.6,45
-1994,Europe,Bosnia and Herzegovina,47.9,50.2,45.1
-1993,Europe,Bosnia and Herzegovina,47.7,49.8,45.1
-1992,Europe,Bosnia and Herzegovina,47.6,49.4,45.2
-1991,Europe,Bosnia and Herzegovina,47.4,48.9,45.2
-1990,Europe,Bosnia and Herzegovina,47.2,48.5,45.3
+2022,Americas,Bolivia,65.1,61.4,68.7
+2021,Americas,Bolivia,64.2,60.3,67.9
+2020,Americas,Bolivia,63.2,59.2,67.1
+2019,Americas,Bolivia,62.3,58,66.3
+2018,Americas,Bolivia,61.3,56.9,65.5
+2017,Americas,Bolivia,60.3,55.8,64.7
+2016,Americas,Bolivia,59.4,54.7,63.8
+2015,Americas,Bolivia,58.4,53.6,63
+2014,Americas,Bolivia,57.4,52.5,62.2
+2013,Americas,Bolivia,56.4,51.4,61.3
+2012,Americas,Bolivia,55.4,50.2,60.5
+2011,Americas,Bolivia,54.4,49.1,59.6
+2010,Americas,Bolivia,53.4,47.9,58.8
+2009,Americas,Bolivia,52.4,46.7,58
+2008,Americas,Bolivia,51.4,45.5,57.1
+2007,Americas,Bolivia,50.4,44.4,56.3
+2006,Americas,Bolivia,49.4,43.2,55.5
+2005,Americas,Bolivia,48.4,42.1,54.7
+2004,Americas,Bolivia,47.5,41,53.9
+2003,Americas,Bolivia,46.5,40,53
+2002,Americas,Bolivia,45.6,38.9,52.2
+2001,Americas,Bolivia,44.6,37.9,51.3
+2000,Americas,Bolivia,43.7,36.9,50.4
+1999,Americas,Bolivia,42.7,35.9,49.4
+1998,Americas,Bolivia,41.8,35,48.5
+1997,Americas,Bolivia,40.8,34.1,47.5
+1996,Americas,Bolivia,39.9,33.2,46.5
+1995,Americas,Bolivia,39,32.3,45.5
+1994,Americas,Bolivia,38.1,31.5,44.6
+1993,Americas,Bolivia,37.3,30.6,43.7
+1992,Americas,Bolivia,36.4,29.8,42.8
+1991,Americas,Bolivia,35.6,29.1,41.9
+1990,Americas,Bolivia,34.8,28.3,41
+2022,Europe,Bosnia and Herz.,56.9,66.6,46.6
+2021,Europe,Bosnia and Herz.,56.5,66,46.5
+2020,Europe,Bosnia and Herz.,56.2,65.5,46.5
+2019,Europe,Bosnia and Herz.,55.9,64.9,46.4
+2018,Europe,Bosnia and Herz.,55.6,64.4,46.3
+2017,Europe,Bosnia and Herz.,55.2,63.8,46.3
+2016,Europe,Bosnia and Herz.,54.9,63.2,46.2
+2015,Europe,Bosnia and Herz.,54.6,62.7,46.1
+2014,Europe,Bosnia and Herz.,54.2,62.1,46
+2013,Europe,Bosnia and Herz.,53.9,61.6,46
+2012,Europe,Bosnia and Herz.,53.6,61,45.9
+2011,Europe,Bosnia and Herz.,53.3,60.5,45.8
+2010,Europe,Bosnia and Herz.,53,59.9,45.8
+2009,Europe,Bosnia and Herz.,52.7,59.3,45.7
+2008,Europe,Bosnia and Herz.,52.3,58.7,45.7
+2007,Europe,Bosnia and Herz.,52,58,45.6
+2006,Europe,Bosnia and Herz.,51.6,57.3,45.6
+2005,Europe,Bosnia and Herz.,51.2,56.6,45.5
+2004,Europe,Bosnia and Herz.,50.9,55.9,45.4
+2003,Europe,Bosnia and Herz.,50.5,55.2,45.4
+2002,Europe,Bosnia and Herz.,50.1,54.5,45.3
+2001,Europe,Bosnia and Herz.,49.7,53.8,45.2
+2000,Europe,Bosnia and Herz.,49.4,53.2,45.2
+1999,Europe,Bosnia and Herz.,49.1,52.6,45.1
+1998,Europe,Bosnia and Herz.,48.8,52,45
+1997,Europe,Bosnia and Herz.,48.5,51.5,45
+1996,Europe,Bosnia and Herz.,48.3,51.1,45
+1995,Europe,Bosnia and Herz.,48.1,50.6,45
+1994,Europe,Bosnia and Herz.,47.9,50.2,45.1
+1993,Europe,Bosnia and Herz.,47.7,49.8,45.1
+1992,Europe,Bosnia and Herz.,47.6,49.4,45.2
+1991,Europe,Bosnia and Herz.,47.4,48.9,45.2
+1990,Europe,Bosnia and Herz.,47.2,48.5,45.3
 2022,Africa,Botswana,42,27.4,55.1
 2021,Africa,Botswana,41.5,26.9,54.5
 2020,Africa,Botswana,41,26.4,54
@@ -857,39 +857,39 @@ Year,Region,Country,Both,Male,Female
 1992,Americas,Brazil,36.6,33.5,39.5
 1991,Americas,Brazil,35.9,32.5,39.1
 1990,Americas,Brazil,35.3,31.6,38.6
-2022,Western Pacific,Brunei Darussalam,69.6,69.6,69.7
-2021,Western Pacific,Brunei Darussalam,68.5,68.4,68.6
-2020,Western Pacific,Brunei Darussalam,67.3,67.2,67.4
-2019,Western Pacific,Brunei Darussalam,66.1,66,66.2
-2018,Western Pacific,Brunei Darussalam,64.9,64.7,65
-2017,Western Pacific,Brunei Darussalam,63.6,63.4,63.7
-2016,Western Pacific,Brunei Darussalam,62.3,62.1,62.4
-2015,Western Pacific,Brunei Darussalam,60.9,60.7,61.1
-2014,Western Pacific,Brunei Darussalam,59.6,59.3,59.8
-2013,Western Pacific,Brunei Darussalam,58.2,58,58.4
-2012,Western Pacific,Brunei Darussalam,56.8,56.6,57.1
-2011,Western Pacific,Brunei Darussalam,55.5,55.2,55.7
-2010,Western Pacific,Brunei Darussalam,54.1,53.8,54.4
-2009,Western Pacific,Brunei Darussalam,52.7,52.3,53
-2008,Western Pacific,Brunei Darussalam,51.2,50.8,51.7
-2007,Western Pacific,Brunei Darussalam,49.8,49.3,50.3
-2006,Western Pacific,Brunei Darussalam,48.3,47.7,49
-2005,Western Pacific,Brunei Darussalam,46.8,46.1,47.6
-2004,Western Pacific,Brunei Darussalam,45.4,44.5,46.3
-2003,Western Pacific,Brunei Darussalam,43.9,42.9,45
-2002,Western Pacific,Brunei Darussalam,42.4,41.3,43.7
-2001,Western Pacific,Brunei Darussalam,41,39.8,42.4
-2000,Western Pacific,Brunei Darussalam,39.6,38.3,41.1
-1999,Western Pacific,Brunei Darussalam,38.2,36.8,39.8
-1998,Western Pacific,Brunei Darussalam,36.9,35.4,38.5
-1997,Western Pacific,Brunei Darussalam,35.5,34,37.3
-1996,Western Pacific,Brunei Darussalam,34.3,32.7,36
-1995,Western Pacific,Brunei Darussalam,33,31.5,34.8
-1994,Western Pacific,Brunei Darussalam,31.8,30.3,33.5
-1993,Western Pacific,Brunei Darussalam,30.6,29.1,32.3
-1992,Western Pacific,Brunei Darussalam,29.4,28.1,31.1
-1991,Western Pacific,Brunei Darussalam,28.3,27,29.8
-1990,Western Pacific,Brunei Darussalam,27.2,26,28.6
+2022,Western Pacific,Brunei,69.6,69.6,69.7
+2021,Western Pacific,Brunei,68.5,68.4,68.6
+2020,Western Pacific,Brunei,67.3,67.2,67.4
+2019,Western Pacific,Brunei,66.1,66,66.2
+2018,Western Pacific,Brunei,64.9,64.7,65
+2017,Western Pacific,Brunei,63.6,63.4,63.7
+2016,Western Pacific,Brunei,62.3,62.1,62.4
+2015,Western Pacific,Brunei,60.9,60.7,61.1
+2014,Western Pacific,Brunei,59.6,59.3,59.8
+2013,Western Pacific,Brunei,58.2,58,58.4
+2012,Western Pacific,Brunei,56.8,56.6,57.1
+2011,Western Pacific,Brunei,55.5,55.2,55.7
+2010,Western Pacific,Brunei,54.1,53.8,54.4
+2009,Western Pacific,Brunei,52.7,52.3,53
+2008,Western Pacific,Brunei,51.2,50.8,51.7
+2007,Western Pacific,Brunei,49.8,49.3,50.3
+2006,Western Pacific,Brunei,48.3,47.7,49
+2005,Western Pacific,Brunei,46.8,46.1,47.6
+2004,Western Pacific,Brunei,45.4,44.5,46.3
+2003,Western Pacific,Brunei,43.9,42.9,45
+2002,Western Pacific,Brunei,42.4,41.3,43.7
+2001,Western Pacific,Brunei,41,39.8,42.4
+2000,Western Pacific,Brunei,39.6,38.3,41.1
+1999,Western Pacific,Brunei,38.2,36.8,39.8
+1998,Western Pacific,Brunei,36.9,35.4,38.5
+1997,Western Pacific,Brunei,35.5,34,37.3
+1996,Western Pacific,Brunei,34.3,32.7,36
+1995,Western Pacific,Brunei,33,31.5,34.8
+1994,Western Pacific,Brunei,31.8,30.3,33.5
+1993,Western Pacific,Brunei,30.6,29.1,32.3
+1992,Western Pacific,Brunei,29.4,28.1,31.1
+1991,Western Pacific,Brunei,28.3,27,29.8
+1990,Western Pacific,Brunei,27.2,26,28.6
 2022,Europe,Bulgaria,52,61,42.3
 2021,Europe,Bulgaria,51.8,60.7,42.3
 2020,Europe,Bulgaria,51.6,60.4,42.2
@@ -989,72 +989,72 @@ Year,Region,Country,Both,Male,Female
 1992,Africa,Burundi,7,8.5,5.8
 1991,Africa,Burundi,6.8,8.2,5.6
 1990,Africa,Burundi,6.6,7.9,5.5
-2022,Africa,Cote d'Ivoire,46.7,37.3,55.8
-2021,Africa,Cote d'Ivoire,45.8,36.7,54.7
-2020,Africa,Cote d'Ivoire,45,36.1,53.6
-2019,Africa,Cote d'Ivoire,44.1,35.5,52.4
-2018,Africa,Cote d'Ivoire,43.2,34.9,51.3
-2017,Africa,Cote d'Ivoire,42.4,34.4,50.2
-2016,Africa,Cote d'Ivoire,41.6,33.8,49.1
-2015,Africa,Cote d'Ivoire,40.8,33.3,48
-2014,Africa,Cote d'Ivoire,40,32.7,47
-2013,Africa,Cote d'Ivoire,39.3,32.2,46
-2012,Africa,Cote d'Ivoire,38.5,31.7,45
-2011,Africa,Cote d'Ivoire,37.7,31.1,44
-2010,Africa,Cote d'Ivoire,36.9,30.4,43
-2009,Africa,Cote d'Ivoire,36.1,29.7,42
-2008,Africa,Cote d'Ivoire,35.2,29,40.9
-2007,Africa,Cote d'Ivoire,34.3,28.1,39.8
-2006,Africa,Cote d'Ivoire,33.3,27.2,38.6
-2005,Africa,Cote d'Ivoire,32.2,26.2,37.4
-2004,Africa,Cote d'Ivoire,31.2,25.2,36.2
-2003,Africa,Cote d'Ivoire,30.1,24.2,34.9
-2002,Africa,Cote d'Ivoire,28.9,23.2,33.6
-2001,Africa,Cote d'Ivoire,27.8,22.1,32.3
-2000,Africa,Cote d'Ivoire,26.7,21.1,31.1
-1999,Africa,Cote d'Ivoire,25.6,20.2,29.8
-1998,Africa,Cote d'Ivoire,24.5,19.2,28.6
-1997,Africa,Cote d'Ivoire,23.4,18.3,27.4
-1996,Africa,Cote d'Ivoire,22.4,17.4,26.2
-1995,Africa,Cote d'Ivoire,21.4,16.6,25.1
-1994,Africa,Cote d'Ivoire,20.5,15.8,24.1
-1993,Africa,Cote d'Ivoire,19.6,15.1,23.1
-1992,Africa,Cote d'Ivoire,18.7,14.3,22.1
-1991,Africa,Cote d'Ivoire,17.9,13.6,21.1
-1990,Africa,Cote d'Ivoire,17.1,13,20.2
-2022,Africa,Cabo Verde,25.1,21.1,29
-2021,Africa,Cabo Verde,24.1,20.3,27.8
-2020,Africa,Cabo Verde,23.1,19.4,26.6
-2019,Africa,Cabo Verde,22.1,18.6,25.4
-2018,Africa,Cabo Verde,21.1,17.8,24.3
-2017,Africa,Cabo Verde,20.1,17,23.1
-2016,Africa,Cabo Verde,19.2,16.2,22
-2015,Africa,Cabo Verde,18.2,15.5,20.9
-2014,Africa,Cabo Verde,17.3,14.8,19.8
-2013,Africa,Cabo Verde,16.5,14.1,18.7
-2012,Africa,Cabo Verde,15.7,13.5,17.8
-2011,Africa,Cabo Verde,14.9,12.8,16.8
-2010,Africa,Cabo Verde,14.2,12.3,15.9
-2009,Africa,Cabo Verde,13.5,11.7,15.1
-2008,Africa,Cabo Verde,12.8,11.2,14.3
-2007,Africa,Cabo Verde,12.2,10.7,13.5
-2006,Africa,Cabo Verde,11.6,10.3,12.8
-2005,Africa,Cabo Verde,11,9.8,12.2
-2004,Africa,Cabo Verde,10.5,9.4,11.6
-2003,Africa,Cabo Verde,10,9,11
-2002,Africa,Cabo Verde,9.6,8.6,10.4
-2001,Africa,Cabo Verde,9.1,8.2,9.9
-2000,Africa,Cabo Verde,8.7,7.9,9.5
-1999,Africa,Cabo Verde,8.3,7.5,9
-1998,Africa,Cabo Verde,7.9,7.2,8.6
-1997,Africa,Cabo Verde,7.6,6.9,8.2
-1996,Africa,Cabo Verde,7.3,6.7,7.8
-1995,Africa,Cabo Verde,7,6.4,7.4
-1994,Africa,Cabo Verde,6.7,6.2,7.1
-1993,Africa,Cabo Verde,6.4,6,6.7
-1992,Africa,Cabo Verde,6.1,5.8,6.4
-1991,Africa,Cabo Verde,5.9,5.6,6.1
-1990,Africa,Cabo Verde,5.6,5.4,5.8
+2022,Africa,Côte d'Ivoire,46.7,37.3,55.8
+2021,Africa,Côte d'Ivoire,45.8,36.7,54.7
+2020,Africa,Côte d'Ivoire,45,36.1,53.6
+2019,Africa,Côte d'Ivoire,44.1,35.5,52.4
+2018,Africa,Côte d'Ivoire,43.2,34.9,51.3
+2017,Africa,Côte d'Ivoire,42.4,34.4,50.2
+2016,Africa,Côte d'Ivoire,41.6,33.8,49.1
+2015,Africa,Côte d'Ivoire,40.8,33.3,48
+2014,Africa,Côte d'Ivoire,40,32.7,47
+2013,Africa,Côte d'Ivoire,39.3,32.2,46
+2012,Africa,Côte d'Ivoire,38.5,31.7,45
+2011,Africa,Côte d'Ivoire,37.7,31.1,44
+2010,Africa,Côte d'Ivoire,36.9,30.4,43
+2009,Africa,Côte d'Ivoire,36.1,29.7,42
+2008,Africa,Côte d'Ivoire,35.2,29,40.9
+2007,Africa,Côte d'Ivoire,34.3,28.1,39.8
+2006,Africa,Côte d'Ivoire,33.3,27.2,38.6
+2005,Africa,Côte d'Ivoire,32.2,26.2,37.4
+2004,Africa,Côte d'Ivoire,31.2,25.2,36.2
+2003,Africa,Côte d'Ivoire,30.1,24.2,34.9
+2002,Africa,Côte d'Ivoire,28.9,23.2,33.6
+2001,Africa,Côte d'Ivoire,27.8,22.1,32.3
+2000,Africa,Côte d'Ivoire,26.7,21.1,31.1
+1999,Africa,Côte d'Ivoire,25.6,20.2,29.8
+1998,Africa,Côte d'Ivoire,24.5,19.2,28.6
+1997,Africa,Côte d'Ivoire,23.4,18.3,27.4
+1996,Africa,Côte d'Ivoire,22.4,17.4,26.2
+1995,Africa,Côte d'Ivoire,21.4,16.6,25.1
+1994,Africa,Côte d'Ivoire,20.5,15.8,24.1
+1993,Africa,Côte d'Ivoire,19.6,15.1,23.1
+1992,Africa,Côte d'Ivoire,18.7,14.3,22.1
+1991,Africa,Côte d'Ivoire,17.9,13.6,21.1
+1990,Africa,Côte d'Ivoire,17.1,13,20.2
+2022,Africa,Cape Verde,25.1,21.1,29
+2021,Africa,Cape Verde,24.1,20.3,27.8
+2020,Africa,Cape Verde,23.1,19.4,26.6
+2019,Africa,Cape Verde,22.1,18.6,25.4
+2018,Africa,Cape Verde,21.1,17.8,24.3
+2017,Africa,Cape Verde,20.1,17,23.1
+2016,Africa,Cape Verde,19.2,16.2,22
+2015,Africa,Cape Verde,18.2,15.5,20.9
+2014,Africa,Cape Verde,17.3,14.8,19.8
+2013,Africa,Cape Verde,16.5,14.1,18.7
+2012,Africa,Cape Verde,15.7,13.5,17.8
+2011,Africa,Cape Verde,14.9,12.8,16.8
+2010,Africa,Cape Verde,14.2,12.3,15.9
+2009,Africa,Cape Verde,13.5,11.7,15.1
+2008,Africa,Cape Verde,12.8,11.2,14.3
+2007,Africa,Cape Verde,12.2,10.7,13.5
+2006,Africa,Cape Verde,11.6,10.3,12.8
+2005,Africa,Cape Verde,11,9.8,12.2
+2004,Africa,Cape Verde,10.5,9.4,11.6
+2003,Africa,Cape Verde,10,9,11
+2002,Africa,Cape Verde,9.6,8.6,10.4
+2001,Africa,Cape Verde,9.1,8.2,9.9
+2000,Africa,Cape Verde,8.7,7.9,9.5
+1999,Africa,Cape Verde,8.3,7.5,9
+1998,Africa,Cape Verde,7.9,7.2,8.6
+1997,Africa,Cape Verde,7.6,6.9,8.2
+1996,Africa,Cape Verde,7.3,6.7,7.8
+1995,Africa,Cape Verde,7,6.4,7.4
+1994,Africa,Cape Verde,6.7,6.2,7.1
+1993,Africa,Cape Verde,6.4,6,6.7
+1992,Africa,Cape Verde,6.1,5.8,6.4
+1991,Africa,Cape Verde,5.9,5.6,6.1
+1990,Africa,Cape Verde,5.6,5.4,5.8
 2022,Western Pacific,Cambodia,39.5,32.3,46.5
 2021,Western Pacific,Cambodia,39,32,45.9
 2020,Western Pacific,Cambodia,38.5,31.7,45.2
@@ -1154,39 +1154,39 @@ Year,Region,Country,Both,Male,Female
 1992,Americas,Canada,8.5,7.6,9.4
 1991,Americas,Canada,8.2,7.4,9
 1990,Americas,Canada,7.8,7.1,8.6
-2022,Africa,Central African Republic,21.4,23,20.1
-2021,Africa,Central African Republic,20.9,22.5,19.5
-2020,Africa,Central African Republic,20.3,22,18.8
-2019,Africa,Central African Republic,19.8,21.5,18.2
-2018,Africa,Central African Republic,19.3,21.1,17.7
-2017,Africa,Central African Republic,18.8,20.7,17.1
-2016,Africa,Central African Republic,18.3,20.3,16.5
-2015,Africa,Central African Republic,17.8,19.9,16
-2014,Africa,Central African Republic,17.4,19.5,15.5
-2013,Africa,Central African Republic,17,19.1,15
-2012,Africa,Central African Republic,16.6,18.8,14.6
-2011,Africa,Central African Republic,16.1,18.4,14.1
-2010,Africa,Central African Republic,15.7,17.9,13.6
-2009,Africa,Central African Republic,15.2,17.4,13.2
-2008,Africa,Central African Republic,14.6,16.8,12.7
-2007,Africa,Central African Republic,14.1,16.2,12.1
-2006,Africa,Central African Republic,13.5,15.6,11.6
-2005,Africa,Central African Republic,12.9,14.9,11
-2004,Africa,Central African Republic,12.3,14.2,10.5
-2003,Africa,Central African Republic,11.6,13.5,10
-2002,Africa,Central African Republic,11,12.8,9.4
-2001,Africa,Central African Republic,10.4,12.1,8.9
-2000,Africa,Central African Republic,9.9,11.5,8.4
-1999,Africa,Central African Republic,9.3,10.9,8
-1998,Africa,Central African Republic,8.8,10.3,7.5
-1997,Africa,Central African Republic,8.3,9.7,7.1
-1996,Africa,Central African Republic,7.9,9.2,6.7
-1995,Africa,Central African Republic,7.4,8.7,6.4
-1994,Africa,Central African Republic,7,8.2,6
-1993,Africa,Central African Republic,6.7,7.8,5.7
-1992,Africa,Central African Republic,6.3,7.4,5.4
-1991,Africa,Central African Republic,6,7,5.1
-1990,Africa,Central African Republic,5.7,6.6,4.9
+2022,Africa,Central African Rep.,21.4,23,20.1
+2021,Africa,Central African Rep.,20.9,22.5,19.5
+2020,Africa,Central African Rep.,20.3,22,18.8
+2019,Africa,Central African Rep.,19.8,21.5,18.2
+2018,Africa,Central African Rep.,19.3,21.1,17.7
+2017,Africa,Central African Rep.,18.8,20.7,17.1
+2016,Africa,Central African Rep.,18.3,20.3,16.5
+2015,Africa,Central African Rep.,17.8,19.9,16
+2014,Africa,Central African Rep.,17.4,19.5,15.5
+2013,Africa,Central African Rep.,17,19.1,15
+2012,Africa,Central African Rep.,16.6,18.8,14.6
+2011,Africa,Central African Rep.,16.1,18.4,14.1
+2010,Africa,Central African Rep.,15.7,17.9,13.6
+2009,Africa,Central African Rep.,15.2,17.4,13.2
+2008,Africa,Central African Rep.,14.6,16.8,12.7
+2007,Africa,Central African Rep.,14.1,16.2,12.1
+2006,Africa,Central African Rep.,13.5,15.6,11.6
+2005,Africa,Central African Rep.,12.9,14.9,11
+2004,Africa,Central African Rep.,12.3,14.2,10.5
+2003,Africa,Central African Rep.,11.6,13.5,10
+2002,Africa,Central African Rep.,11,12.8,9.4
+2001,Africa,Central African Rep.,10.4,12.1,8.9
+2000,Africa,Central African Rep.,9.9,11.5,8.4
+1999,Africa,Central African Rep.,9.3,10.9,8
+1998,Africa,Central African Rep.,8.8,10.3,7.5
+1997,Africa,Central African Rep.,8.3,9.7,7.1
+1996,Africa,Central African Rep.,7.9,9.2,6.7
+1995,Africa,Central African Rep.,7.4,8.7,6.4
+1994,Africa,Central African Rep.,7,8.2,6
+1993,Africa,Central African Rep.,6.7,7.8,5.7
+1992,Africa,Central African Rep.,6.3,7.4,5.4
+1991,Africa,Central African Rep.,6,7,5.1
+1990,Africa,Central African Rep.,5.7,6.6,4.9
 2022,Africa,Chad,78.8,78.5,79
 2021,Africa,Chad,77.9,77.7,78.1
 2020,Africa,Chad,77.1,76.9,77.2
@@ -1583,72 +1583,72 @@ Year,Region,Country,Both,Male,Female
 1992,Europe,Czechia,55.2,61.2,49
 1991,Europe,Czechia,55.5,61.3,49.5
 1990,Europe,Czechia,55.8,61.3,49.9
-2022,South-East Asia,Democratic People's Republic of Korea,37,33.3,40.8
-2021,South-East Asia,Democratic People's Republic of Korea,36,32.2,39.7
-2020,South-East Asia,Democratic People's Republic of Korea,34.9,31.2,38.7
-2019,South-East Asia,Democratic People's Republic of Korea,33.9,30.2,37.6
-2018,South-East Asia,Democratic People's Republic of Korea,32.9,29.2,36.6
-2017,South-East Asia,Democratic People's Republic of Korea,31.9,28.2,35.6
-2016,South-East Asia,Democratic People's Republic of Korea,30.9,27.3,34.5
-2015,South-East Asia,Democratic People's Republic of Korea,30,26.3,33.5
-2014,South-East Asia,Democratic People's Republic of Korea,29,25.4,32.5
-2013,South-East Asia,Democratic People's Republic of Korea,28.1,24.5,31.5
-2012,South-East Asia,Democratic People's Republic of Korea,27.1,23.6,30.6
-2011,South-East Asia,Democratic People's Republic of Korea,26.3,22.8,29.6
-2010,South-East Asia,Democratic People's Republic of Korea,25.4,22,28.7
-2009,South-East Asia,Democratic People's Republic of Korea,24.6,21.2,27.8
-2008,South-East Asia,Democratic People's Republic of Korea,23.8,20.4,27
-2007,South-East Asia,Democratic People's Republic of Korea,23,19.6,26.1
-2006,South-East Asia,Democratic People's Republic of Korea,22.2,18.8,25.3
-2005,South-East Asia,Democratic People's Republic of Korea,21.4,18.1,24.5
-2004,South-East Asia,Democratic People's Republic of Korea,20.7,17.4,23.8
-2003,South-East Asia,Democratic People's Republic of Korea,20,16.7,23
-2002,South-East Asia,Democratic People's Republic of Korea,19.3,16,22.3
-2001,South-East Asia,Democratic People's Republic of Korea,18.6,15.3,21.6
-2000,South-East Asia,Democratic People's Republic of Korea,17.9,14.7,20.8
-1999,South-East Asia,Democratic People's Republic of Korea,17.3,14.1,20.2
-1998,South-East Asia,Democratic People's Republic of Korea,16.7,13.5,19.5
-1997,South-East Asia,Democratic People's Republic of Korea,16,13,18.8
-1996,South-East Asia,Democratic People's Republic of Korea,15.5,12.5,18.1
-1995,South-East Asia,Democratic People's Republic of Korea,14.9,12,17.4
-1994,South-East Asia,Democratic People's Republic of Korea,14.3,11.6,16.8
-1993,South-East Asia,Democratic People's Republic of Korea,13.8,11.1,16.1
-1992,South-East Asia,Democratic People's Republic of Korea,13.3,10.7,15.4
-1991,South-East Asia,Democratic People's Republic of Korea,12.8,10.4,14.8
-1990,South-East Asia,Democratic People's Republic of Korea,12.3,10,14.2
-2022,South-East Asia,Democratic Republic of the Congo,21.8,16,27.4
-2021,South-East Asia,Democratic Republic of the Congo,21.2,15.6,26.6
-2020,South-East Asia,Democratic Republic of the Congo,20.6,15.2,25.7
-2019,South-East Asia,Democratic Republic of the Congo,20,14.8,24.9
-2018,South-East Asia,Democratic Republic of the Congo,19.4,14.5,24.2
-2017,South-East Asia,Democratic Republic of the Congo,18.8,14.1,23.4
-2016,South-East Asia,Democratic Republic of the Congo,18.3,13.8,22.6
-2015,South-East Asia,Democratic Republic of the Congo,17.7,13.5,21.9
-2014,South-East Asia,Democratic Republic of the Congo,17.2,13.1,21.1
-2013,South-East Asia,Democratic Republic of the Congo,16.7,12.8,20.4
-2012,South-East Asia,Democratic Republic of the Congo,16.2,12.5,19.8
-2011,South-East Asia,Democratic Republic of the Congo,15.7,12.2,19.1
-2010,South-East Asia,Democratic Republic of the Congo,15.2,11.9,18.4
-2009,South-East Asia,Democratic Republic of the Congo,14.7,11.6,17.7
-2008,South-East Asia,Democratic Republic of the Congo,14.2,11.2,17.1
-2007,South-East Asia,Democratic Republic of the Congo,13.7,10.9,16.4
-2006,South-East Asia,Democratic Republic of the Congo,13.2,10.5,15.7
-2005,South-East Asia,Democratic Republic of the Congo,12.7,10.2,15
-2004,South-East Asia,Democratic Republic of the Congo,12.2,9.8,14.4
-2003,South-East Asia,Democratic Republic of the Congo,11.6,9.5,13.7
-2002,South-East Asia,Democratic Republic of the Congo,11.2,9.1,13.1
-2001,South-East Asia,Democratic Republic of the Congo,10.7,8.8,12.5
-2000,South-East Asia,Democratic Republic of the Congo,10.2,8.5,11.9
-1999,South-East Asia,Democratic Republic of the Congo,9.8,8.2,11.3
-1998,South-East Asia,Democratic Republic of the Congo,9.4,7.9,10.8
-1997,South-East Asia,Democratic Republic of the Congo,9,7.6,10.3
-1996,South-East Asia,Democratic Republic of the Congo,8.6,7.3,9.8
-1995,South-East Asia,Democratic Republic of the Congo,8.3,7.1,9.4
-1994,South-East Asia,Democratic Republic of the Congo,7.9,6.8,8.9
-1993,South-East Asia,Democratic Republic of the Congo,7.6,6.6,8.5
-1992,South-East Asia,Democratic Republic of the Congo,7.3,6.4,8.2
-1991,South-East Asia,Democratic Republic of the Congo,7,6.2,7.8
-1990,South-East Asia,Democratic Republic of the Congo,6.7,5.9,7.5
+2022,South-East Asia,North Korea,37,33.3,40.8
+2021,South-East Asia,North Korea,36,32.2,39.7
+2020,South-East Asia,North Korea,34.9,31.2,38.7
+2019,South-East Asia,North Korea,33.9,30.2,37.6
+2018,South-East Asia,North Korea,32.9,29.2,36.6
+2017,South-East Asia,North Korea,31.9,28.2,35.6
+2016,South-East Asia,North Korea,30.9,27.3,34.5
+2015,South-East Asia,North Korea,30,26.3,33.5
+2014,South-East Asia,North Korea,29,25.4,32.5
+2013,South-East Asia,North Korea,28.1,24.5,31.5
+2012,South-East Asia,North Korea,27.1,23.6,30.6
+2011,South-East Asia,North Korea,26.3,22.8,29.6
+2010,South-East Asia,North Korea,25.4,22,28.7
+2009,South-East Asia,North Korea,24.6,21.2,27.8
+2008,South-East Asia,North Korea,23.8,20.4,27
+2007,South-East Asia,North Korea,23,19.6,26.1
+2006,South-East Asia,North Korea,22.2,18.8,25.3
+2005,South-East Asia,North Korea,21.4,18.1,24.5
+2004,South-East Asia,North Korea,20.7,17.4,23.8
+2003,South-East Asia,North Korea,20,16.7,23
+2002,South-East Asia,North Korea,19.3,16,22.3
+2001,South-East Asia,North Korea,18.6,15.3,21.6
+2000,South-East Asia,North Korea,17.9,14.7,20.8
+1999,South-East Asia,North Korea,17.3,14.1,20.2
+1998,South-East Asia,North Korea,16.7,13.5,19.5
+1997,South-East Asia,North Korea,16,13,18.8
+1996,South-East Asia,North Korea,15.5,12.5,18.1
+1995,South-East Asia,North Korea,14.9,12,17.4
+1994,South-East Asia,North Korea,14.3,11.6,16.8
+1993,South-East Asia,North Korea,13.8,11.1,16.1
+1992,South-East Asia,North Korea,13.3,10.7,15.4
+1991,South-East Asia,North Korea,12.8,10.4,14.8
+1990,South-East Asia,North Korea,12.3,10,14.2
+2022,South-East Asia,Dem. Rep. Congo,21.8,16,27.4
+2021,South-East Asia,Dem. Rep. Congo,21.2,15.6,26.6
+2020,South-East Asia,Dem. Rep. Congo,20.6,15.2,25.7
+2019,South-East Asia,Dem. Rep. Congo,20,14.8,24.9
+2018,South-East Asia,Dem. Rep. Congo,19.4,14.5,24.2
+2017,South-East Asia,Dem. Rep. Congo,18.8,14.1,23.4
+2016,South-East Asia,Dem. Rep. Congo,18.3,13.8,22.6
+2015,South-East Asia,Dem. Rep. Congo,17.7,13.5,21.9
+2014,South-East Asia,Dem. Rep. Congo,17.2,13.1,21.1
+2013,South-East Asia,Dem. Rep. Congo,16.7,12.8,20.4
+2012,South-East Asia,Dem. Rep. Congo,16.2,12.5,19.8
+2011,South-East Asia,Dem. Rep. Congo,15.7,12.2,19.1
+2010,South-East Asia,Dem. Rep. Congo,15.2,11.9,18.4
+2009,South-East Asia,Dem. Rep. Congo,14.7,11.6,17.7
+2008,South-East Asia,Dem. Rep. Congo,14.2,11.2,17.1
+2007,South-East Asia,Dem. Rep. Congo,13.7,10.9,16.4
+2006,South-East Asia,Dem. Rep. Congo,13.2,10.5,15.7
+2005,South-East Asia,Dem. Rep. Congo,12.7,10.2,15
+2004,South-East Asia,Dem. Rep. Congo,12.2,9.8,14.4
+2003,South-East Asia,Dem. Rep. Congo,11.6,9.5,13.7
+2002,South-East Asia,Dem. Rep. Congo,11.2,9.1,13.1
+2001,South-East Asia,Dem. Rep. Congo,10.7,8.8,12.5
+2000,South-East Asia,Dem. Rep. Congo,10.2,8.5,11.9
+1999,South-East Asia,Dem. Rep. Congo,9.8,8.2,11.3
+1998,South-East Asia,Dem. Rep. Congo,9.4,7.9,10.8
+1997,South-East Asia,Dem. Rep. Congo,9,7.6,10.3
+1996,South-East Asia,Dem. Rep. Congo,8.6,7.3,9.8
+1995,South-East Asia,Dem. Rep. Congo,8.3,7.1,9.4
+1994,South-East Asia,Dem. Rep. Congo,7.9,6.8,8.9
+1993,South-East Asia,Dem. Rep. Congo,7.6,6.6,8.5
+1992,South-East Asia,Dem. Rep. Congo,7.3,6.4,8.2
+1991,South-East Asia,Dem. Rep. Congo,7,6.2,7.8
+1990,South-East Asia,Dem. Rep. Congo,6.7,5.9,7.5
 2022,Europe,Denmark,44.9,54.3,35.6
 2021,Europe,Denmark,44.9,54.3,35.5
 2020,Europe,Denmark,44.9,54.3,35.4
@@ -1748,39 +1748,39 @@ Year,Region,Country,Both,Male,Female
 1992,Americas,Dominica,36.8,22.7,50.5
 1991,Americas,Dominica,36,22,49.5
 1990,Americas,Dominica,35.3,21.4,48.5
-2022,Americas,Dominican Republic,63.3,57.3,69.3
-2021,Americas,Dominican Republic,62.5,56.5,68.5
-2020,Americas,Dominican Republic,61.7,55.8,67.6
-2019,Americas,Dominican Republic,60.9,55.1,66.7
-2018,Americas,Dominican Republic,60.1,54.4,65.8
-2017,Americas,Dominican Republic,59.3,53.7,64.9
-2016,Americas,Dominican Republic,58.5,53,64
-2015,Americas,Dominican Republic,57.7,52.2,63.1
-2014,Americas,Dominican Republic,56.8,51.5,62.1
-2013,Americas,Dominican Republic,56,50.7,61.2
-2012,Americas,Dominican Republic,55.1,49.9,60.3
-2011,Americas,Dominican Republic,54.2,49.1,59.3
-2010,Americas,Dominican Republic,53.3,48.2,58.4
-2009,Americas,Dominican Republic,52.4,47.3,57.5
-2008,Americas,Dominican Republic,51.4,46.3,56.5
-2007,Americas,Dominican Republic,50.4,45.3,55.6
-2006,Americas,Dominican Republic,49.4,44.2,54.6
-2005,Americas,Dominican Republic,48.3,43,53.6
-2004,Americas,Dominican Republic,47.2,41.9,52.7
-2003,Americas,Dominican Republic,46.1,40.7,51.7
-2002,Americas,Dominican Republic,45,39.4,50.6
-2001,Americas,Dominican Republic,43.9,38.2,49.6
-2000,Americas,Dominican Republic,42.7,36.9,48.5
-1999,Americas,Dominican Republic,41.6,35.7,47.4
-1998,Americas,Dominican Republic,40.4,34.4,46.3
-1997,Americas,Dominican Republic,39.3,33.2,45.2
-1996,Americas,Dominican Republic,38.1,32,44.1
-1995,Americas,Dominican Republic,37,30.8,43
-1994,Americas,Dominican Republic,36,29.6,41.9
-1993,Americas,Dominican Republic,34.9,28.5,40.9
-1992,Americas,Dominican Republic,33.9,27.5,39.8
-1991,Americas,Dominican Republic,32.8,26.5,38.8
-1990,Americas,Dominican Republic,31.8,25.5,37.8
+2022,Americas,Dominican Rep.,63.3,57.3,69.3
+2021,Americas,Dominican Rep.,62.5,56.5,68.5
+2020,Americas,Dominican Rep.,61.7,55.8,67.6
+2019,Americas,Dominican Rep.,60.9,55.1,66.7
+2018,Americas,Dominican Rep.,60.1,54.4,65.8
+2017,Americas,Dominican Rep.,59.3,53.7,64.9
+2016,Americas,Dominican Rep.,58.5,53,64
+2015,Americas,Dominican Rep.,57.7,52.2,63.1
+2014,Americas,Dominican Rep.,56.8,51.5,62.1
+2013,Americas,Dominican Rep.,56,50.7,61.2
+2012,Americas,Dominican Rep.,55.1,49.9,60.3
+2011,Americas,Dominican Rep.,54.2,49.1,59.3
+2010,Americas,Dominican Rep.,53.3,48.2,58.4
+2009,Americas,Dominican Rep.,52.4,47.3,57.5
+2008,Americas,Dominican Rep.,51.4,46.3,56.5
+2007,Americas,Dominican Rep.,50.4,45.3,55.6
+2006,Americas,Dominican Rep.,49.4,44.2,54.6
+2005,Americas,Dominican Rep.,48.3,43,53.6
+2004,Americas,Dominican Rep.,47.2,41.9,52.7
+2003,Americas,Dominican Rep.,46.1,40.7,51.7
+2002,Americas,Dominican Rep.,45,39.4,50.6
+2001,Americas,Dominican Rep.,43.9,38.2,49.6
+2000,Americas,Dominican Rep.,42.7,36.9,48.5
+1999,Americas,Dominican Rep.,41.6,35.7,47.4
+1998,Americas,Dominican Rep.,40.4,34.4,46.3
+1997,Americas,Dominican Rep.,39.3,33.2,45.2
+1996,Americas,Dominican Rep.,38.1,32,44.1
+1995,Americas,Dominican Rep.,37,30.8,43
+1994,Americas,Dominican Rep.,36,29.6,41.9
+1993,Americas,Dominican Rep.,34.9,28.5,40.9
+1992,Americas,Dominican Rep.,33.9,27.5,39.8
+1991,Americas,Dominican Rep.,32.8,26.5,38.8
+1990,Americas,Dominican Rep.,31.8,25.5,37.8
 2022,Americas,Ecuador,66.8,63.9,69.4
 2021,Americas,Ecuador,66.1,63,68.9
 2020,Americas,Ecuador,65.4,62.1,68.5
@@ -1880,39 +1880,39 @@ Year,Region,Country,Both,Male,Female
 1992,Americas,El Salvador,45.8,40.5,50.4
 1991,Americas,El Salvador,44.8,39.5,49.3
 1990,Americas,El Salvador,43.8,38.6,48.3
-2022,Africa,Equatorial Guinea,39.5,24.1,57.7
-2021,Africa,Equatorial Guinea,38.9,23.6,57
-2020,Africa,Equatorial Guinea,38.3,23.2,56.3
-2019,Africa,Equatorial Guinea,37.7,22.7,55.5
-2018,Africa,Equatorial Guinea,37.2,22.3,54.8
-2017,Africa,Equatorial Guinea,36.7,21.9,54
-2016,Africa,Equatorial Guinea,36.2,21.5,53.3
-2015,Africa,Equatorial Guinea,35.7,21.1,52.5
-2014,Africa,Equatorial Guinea,35.3,20.8,51.8
-2013,Africa,Equatorial Guinea,34.8,20.4,51
-2012,Africa,Equatorial Guinea,34.4,20.1,50.2
-2011,Africa,Equatorial Guinea,33.9,19.7,49.5
-2010,Africa,Equatorial Guinea,33.4,19.3,48.6
-2009,Africa,Equatorial Guinea,32.8,18.9,47.8
-2008,Africa,Equatorial Guinea,32.2,18.5,46.9
-2007,Africa,Equatorial Guinea,31.6,18,45.9
-2006,Africa,Equatorial Guinea,30.9,17.5,44.9
-2005,Africa,Equatorial Guinea,30.2,17,43.8
-2004,Africa,Equatorial Guinea,29.4,16.5,42.7
-2003,Africa,Equatorial Guinea,28.7,16,41.5
-2002,Africa,Equatorial Guinea,27.9,15.5,40.3
-2001,Africa,Equatorial Guinea,27,15,39.1
-2000,Africa,Equatorial Guinea,26.2,14.5,37.9
-1999,Africa,Equatorial Guinea,25.4,14,36.6
-1998,Africa,Equatorial Guinea,24.6,13.6,35.4
-1997,Africa,Equatorial Guinea,23.8,13.1,34.2
-1996,Africa,Equatorial Guinea,23.1,12.7,33
-1995,Africa,Equatorial Guinea,22.3,12.2,31.9
-1994,Africa,Equatorial Guinea,21.6,11.8,30.7
-1993,Africa,Equatorial Guinea,20.8,11.4,29.7
-1992,Africa,Equatorial Guinea,20.1,11,28.6
-1991,Africa,Equatorial Guinea,19.4,10.6,27.5
-1990,Africa,Equatorial Guinea,18.6,10.2,26.5
+2022,Africa,Eq. Guinea,39.5,24.1,57.7
+2021,Africa,Eq. Guinea,38.9,23.6,57
+2020,Africa,Eq. Guinea,38.3,23.2,56.3
+2019,Africa,Eq. Guinea,37.7,22.7,55.5
+2018,Africa,Eq. Guinea,37.2,22.3,54.8
+2017,Africa,Eq. Guinea,36.7,21.9,54
+2016,Africa,Eq. Guinea,36.2,21.5,53.3
+2015,Africa,Eq. Guinea,35.7,21.1,52.5
+2014,Africa,Eq. Guinea,35.3,20.8,51.8
+2013,Africa,Eq. Guinea,34.8,20.4,51
+2012,Africa,Eq. Guinea,34.4,20.1,50.2
+2011,Africa,Eq. Guinea,33.9,19.7,49.5
+2010,Africa,Eq. Guinea,33.4,19.3,48.6
+2009,Africa,Eq. Guinea,32.8,18.9,47.8
+2008,Africa,Eq. Guinea,32.2,18.5,46.9
+2007,Africa,Eq. Guinea,31.6,18,45.9
+2006,Africa,Eq. Guinea,30.9,17.5,44.9
+2005,Africa,Eq. Guinea,30.2,17,43.8
+2004,Africa,Eq. Guinea,29.4,16.5,42.7
+2003,Africa,Eq. Guinea,28.7,16,41.5
+2002,Africa,Eq. Guinea,27.9,15.5,40.3
+2001,Africa,Eq. Guinea,27,15,39.1
+2000,Africa,Eq. Guinea,26.2,14.5,37.9
+1999,Africa,Eq. Guinea,25.4,14,36.6
+1998,Africa,Eq. Guinea,24.6,13.6,35.4
+1997,Africa,Eq. Guinea,23.8,13.1,34.2
+1996,Africa,Eq. Guinea,23.1,12.7,33
+1995,Africa,Eq. Guinea,22.3,12.2,31.9
+1994,Africa,Eq. Guinea,21.6,11.8,30.7
+1993,Africa,Eq. Guinea,20.8,11.4,29.7
+1992,Africa,Eq. Guinea,20.1,11,28.6
+1991,Africa,Eq. Guinea,19.4,10.6,27.5
+1990,Africa,Eq. Guinea,18.6,10.2,26.5
 2022,Africa,Eritrea,17.2,14,20.1
 2021,Africa,Eritrea,16.6,13.5,19.3
 2020,Africa,Eritrea,16,13.1,18.6
@@ -2771,39 +2771,39 @@ Year,Region,Country,Both,Male,Female
 1992,South-East Asia,Indonesia,10.9,7.2,14.5
 1991,South-East Asia,Indonesia,10.5,7,14
 1990,South-East Asia,Indonesia,10.2,6.8,13.5
-2022,Eastern Mediterranean,Iran (Islamic Republic of),60.4,55.7,65
-2021,Eastern Mediterranean,Iran (Islamic Republic of),59.8,55.1,64.5
-2020,Eastern Mediterranean,Iran (Islamic Republic of),59.2,54.4,64
-2019,Eastern Mediterranean,Iran (Islamic Republic of),58.6,53.8,63.5
-2018,Eastern Mediterranean,Iran (Islamic Republic of),58,53.2,62.9
-2017,Eastern Mediterranean,Iran (Islamic Republic of),57.4,52.5,62.4
-2016,Eastern Mediterranean,Iran (Islamic Republic of),56.8,51.7,61.9
-2015,Eastern Mediterranean,Iran (Islamic Republic of),56.1,50.9,61.3
-2014,Eastern Mediterranean,Iran (Islamic Republic of),55.5,50.2,60.8
-2013,Eastern Mediterranean,Iran (Islamic Republic of),54.9,49.5,60.3
-2012,Eastern Mediterranean,Iran (Islamic Republic of),54.3,48.8,59.8
-2011,Eastern Mediterranean,Iran (Islamic Republic of),53.7,48.1,59.4
-2010,Eastern Mediterranean,Iran (Islamic Republic of),53.1,47.4,58.9
-2009,Eastern Mediterranean,Iran (Islamic Republic of),52.6,46.8,58.5
-2008,Eastern Mediterranean,Iran (Islamic Republic of),52,46.1,58
-2007,Eastern Mediterranean,Iran (Islamic Republic of),51.4,45.4,57.5
-2006,Eastern Mediterranean,Iran (Islamic Republic of),50.8,44.8,57
-2005,Eastern Mediterranean,Iran (Islamic Republic of),50.2,44.1,56.4
-2004,Eastern Mediterranean,Iran (Islamic Republic of),49.5,43.3,55.7
-2003,Eastern Mediterranean,Iran (Islamic Republic of),48.8,42.6,55
-2002,Eastern Mediterranean,Iran (Islamic Republic of),48,41.8,54.3
-2001,Eastern Mediterranean,Iran (Islamic Republic of),47.2,41.1,53.5
-2000,Eastern Mediterranean,Iran (Islamic Republic of),46.5,40.3,52.7
-1999,Eastern Mediterranean,Iran (Islamic Republic of),45.7,39.6,51.8
-1998,Eastern Mediterranean,Iran (Islamic Republic of),44.9,38.9,51
-1997,Eastern Mediterranean,Iran (Islamic Republic of),44.1,38.1,50.2
-1996,Eastern Mediterranean,Iran (Islamic Republic of),43.4,37.4,49.5
-1995,Eastern Mediterranean,Iran (Islamic Republic of),42.6,36.7,48.7
-1994,Eastern Mediterranean,Iran (Islamic Republic of),41.9,36,48
-1993,Eastern Mediterranean,Iran (Islamic Republic of),41.2,35.3,47.4
-1992,Eastern Mediterranean,Iran (Islamic Republic of),40.5,34.6,46.7
-1991,Eastern Mediterranean,Iran (Islamic Republic of),39.9,33.9,46.1
-1990,Eastern Mediterranean,Iran (Islamic Republic of),39.2,33.2,45.4
+2022,Eastern Mediterranean,Iran,60.4,55.7,65
+2021,Eastern Mediterranean,Iran,59.8,55.1,64.5
+2020,Eastern Mediterranean,Iran,59.2,54.4,64
+2019,Eastern Mediterranean,Iran,58.6,53.8,63.5
+2018,Eastern Mediterranean,Iran,58,53.2,62.9
+2017,Eastern Mediterranean,Iran,57.4,52.5,62.4
+2016,Eastern Mediterranean,Iran,56.8,51.7,61.9
+2015,Eastern Mediterranean,Iran,56.1,50.9,61.3
+2014,Eastern Mediterranean,Iran,55.5,50.2,60.8
+2013,Eastern Mediterranean,Iran,54.9,49.5,60.3
+2012,Eastern Mediterranean,Iran,54.3,48.8,59.8
+2011,Eastern Mediterranean,Iran,53.7,48.1,59.4
+2010,Eastern Mediterranean,Iran,53.1,47.4,58.9
+2009,Eastern Mediterranean,Iran,52.6,46.8,58.5
+2008,Eastern Mediterranean,Iran,52,46.1,58
+2007,Eastern Mediterranean,Iran,51.4,45.4,57.5
+2006,Eastern Mediterranean,Iran,50.8,44.8,57
+2005,Eastern Mediterranean,Iran,50.2,44.1,56.4
+2004,Eastern Mediterranean,Iran,49.5,43.3,55.7
+2003,Eastern Mediterranean,Iran,48.8,42.6,55
+2002,Eastern Mediterranean,Iran,48,41.8,54.3
+2001,Eastern Mediterranean,Iran,47.2,41.1,53.5
+2000,Eastern Mediterranean,Iran,46.5,40.3,52.7
+1999,Eastern Mediterranean,Iran,45.7,39.6,51.8
+1998,Eastern Mediterranean,Iran,44.9,38.9,51
+1997,Eastern Mediterranean,Iran,44.1,38.1,50.2
+1996,Eastern Mediterranean,Iran,43.4,37.4,49.5
+1995,Eastern Mediterranean,Iran,42.6,36.7,48.7
+1994,Eastern Mediterranean,Iran,41.9,36,48
+1993,Eastern Mediterranean,Iran,41.2,35.3,47.4
+1992,Eastern Mediterranean,Iran,40.5,34.6,46.7
+1991,Eastern Mediterranean,Iran,39.9,33.9,46.1
+1990,Eastern Mediterranean,Iran,39.2,33.2,45.4
 2022,Eastern Mediterranean,Iraq,73.3,68.4,77.9
 2021,Eastern Mediterranean,Iraq,72.7,67.9,77.3
 2020,Eastern Mediterranean,Iraq,72.2,67.4,76.7
@@ -3200,39 +3200,39 @@ Year,Region,Country,Both,Male,Female
 1992,Europe,Kyrgyzstan,34.6,34.7,34.3
 1991,Europe,Kyrgyzstan,34.1,34.2,33.6
 1990,Europe,Kyrgyzstan,33.5,33.7,33
-2022,Western Pacific,Lao People's Democratic Republic,31,27.5,34.5
-2021,Western Pacific,Lao People's Democratic Republic,30.1,26.6,33.5
-2020,Western Pacific,Lao People's Democratic Republic,29.1,25.8,32.5
-2019,Western Pacific,Lao People's Democratic Republic,28.2,25,31.5
-2018,Western Pacific,Lao People's Democratic Republic,27.3,24.2,30.5
-2017,Western Pacific,Lao People's Democratic Republic,26.4,23.4,29.5
-2016,Western Pacific,Lao People's Democratic Republic,25.5,22.6,28.5
-2015,Western Pacific,Lao People's Democratic Republic,24.7,21.8,27.6
-2014,Western Pacific,Lao People's Democratic Republic,23.8,21,26.6
-2013,Western Pacific,Lao People's Democratic Republic,23,20.3,25.7
-2012,Western Pacific,Lao People's Democratic Republic,22.2,19.6,24.8
-2011,Western Pacific,Lao People's Democratic Republic,21.4,18.9,23.9
-2010,Western Pacific,Lao People's Democratic Republic,20.7,18.3,23.1
-2009,Western Pacific,Lao People's Democratic Republic,20,17.7,22.3
-2008,Western Pacific,Lao People's Democratic Republic,19.3,17,21.5
-2007,Western Pacific,Lao People's Democratic Republic,18.6,16.4,20.8
-2006,Western Pacific,Lao People's Democratic Republic,18,15.8,20.1
-2005,Western Pacific,Lao People's Democratic Republic,17.3,15.2,19.4
-2004,Western Pacific,Lao People's Democratic Republic,16.7,14.6,18.7
-2003,Western Pacific,Lao People's Democratic Republic,16.1,14.1,18.1
-2002,Western Pacific,Lao People's Democratic Republic,15.5,13.5,17.5
-2001,Western Pacific,Lao People's Democratic Republic,14.9,13,16.9
-2000,Western Pacific,Lao People's Democratic Republic,14.4,12.5,16.3
-1999,Western Pacific,Lao People's Democratic Republic,13.9,12,15.7
-1998,Western Pacific,Lao People's Democratic Republic,13.4,11.5,15.1
-1997,Western Pacific,Lao People's Democratic Republic,12.9,11.1,14.6
-1996,Western Pacific,Lao People's Democratic Republic,12.4,10.7,14
-1995,Western Pacific,Lao People's Democratic Republic,11.9,10.3,13.5
-1994,Western Pacific,Lao People's Democratic Republic,11.5,10,12.9
-1993,Western Pacific,Lao People's Democratic Republic,11,9.6,12.4
-1992,Western Pacific,Lao People's Democratic Republic,10.6,9.3,11.9
-1991,Western Pacific,Lao People's Democratic Republic,10.2,9,11.4
-1990,Western Pacific,Lao People's Democratic Republic,9.8,8.7,10.9
+2022,Western Pacific,Laos,31,27.5,34.5
+2021,Western Pacific,Laos,30.1,26.6,33.5
+2020,Western Pacific,Laos,29.1,25.8,32.5
+2019,Western Pacific,Laos,28.2,25,31.5
+2018,Western Pacific,Laos,27.3,24.2,30.5
+2017,Western Pacific,Laos,26.4,23.4,29.5
+2016,Western Pacific,Laos,25.5,22.6,28.5
+2015,Western Pacific,Laos,24.7,21.8,27.6
+2014,Western Pacific,Laos,23.8,21,26.6
+2013,Western Pacific,Laos,23,20.3,25.7
+2012,Western Pacific,Laos,22.2,19.6,24.8
+2011,Western Pacific,Laos,21.4,18.9,23.9
+2010,Western Pacific,Laos,20.7,18.3,23.1
+2009,Western Pacific,Laos,20,17.7,22.3
+2008,Western Pacific,Laos,19.3,17,21.5
+2007,Western Pacific,Laos,18.6,16.4,20.8
+2006,Western Pacific,Laos,18,15.8,20.1
+2005,Western Pacific,Laos,17.3,15.2,19.4
+2004,Western Pacific,Laos,16.7,14.6,18.7
+2003,Western Pacific,Laos,16.1,14.1,18.1
+2002,Western Pacific,Laos,15.5,13.5,17.5
+2001,Western Pacific,Laos,14.9,13,16.9
+2000,Western Pacific,Laos,14.4,12.5,16.3
+1999,Western Pacific,Laos,13.9,12,15.7
+1998,Western Pacific,Laos,13.4,11.5,15.1
+1997,Western Pacific,Laos,12.9,11.1,14.6
+1996,Western Pacific,Laos,12.4,10.7,14
+1995,Western Pacific,Laos,11.9,10.3,13.5
+1994,Western Pacific,Laos,11.5,10,12.9
+1993,Western Pacific,Laos,11,9.6,12.4
+1992,Western Pacific,Laos,10.6,9.3,11.9
+1991,Western Pacific,Laos,10.2,9,11.4
+1990,Western Pacific,Laos,9.8,8.7,10.9
 2022,Europe,Latvia,59.3,67.9,50.3
 2021,Europe,Latvia,58.9,67.1,50.1
 2020,Europe,Latvia,58.4,66.4,49.9
@@ -4091,39 +4091,39 @@ Year,Region,Country,Both,Male,Female
 1992,South-East Asia,Nepal,6.8,9.7,3.8
 1991,South-East Asia,Nepal,6.4,9.3,3.5
 1990,South-East Asia,Nepal,6.1,8.9,3.2
-2022,Europe,Netherlands (Kingdom of the),45.9,52.3,39.5
-2021,Europe,Netherlands (Kingdom of the),46.1,52.5,39.7
-2020,Europe,Netherlands (Kingdom of the),46.2,52.6,39.8
-2019,Europe,Netherlands (Kingdom of the),46.4,52.8,39.9
-2018,Europe,Netherlands (Kingdom of the),46.5,52.9,40.1
-2017,Europe,Netherlands (Kingdom of the),46.6,53,40.2
-2016,Europe,Netherlands (Kingdom of the),46.8,53.2,40.4
-2015,Europe,Netherlands (Kingdom of the),46.9,53.3,40.5
-2014,Europe,Netherlands (Kingdom of the),47.1,53.4,40.6
-2013,Europe,Netherlands (Kingdom of the),47.2,53.6,40.8
-2012,Europe,Netherlands (Kingdom of the),47.3,53.7,40.9
-2011,Europe,Netherlands (Kingdom of the),47.5,53.8,41.1
-2010,Europe,Netherlands (Kingdom of the),47.6,53.9,41.2
-2009,Europe,Netherlands (Kingdom of the),47.6,53.9,41.3
-2008,Europe,Netherlands (Kingdom of the),47.6,53.8,41.4
-2007,Europe,Netherlands (Kingdom of the),47.6,53.6,41.5
-2006,Europe,Netherlands (Kingdom of the),47.5,53.4,41.5
-2005,Europe,Netherlands (Kingdom of the),47.3,53,41.4
-2004,Europe,Netherlands (Kingdom of the),47,52.6,41.3
-2003,Europe,Netherlands (Kingdom of the),46.7,52.1,41.2
-2002,Europe,Netherlands (Kingdom of the),46.4,51.6,41
-2001,Europe,Netherlands (Kingdom of the),45.9,51,40.7
-2000,Europe,Netherlands (Kingdom of the),45.5,50.3,40.4
-1999,Europe,Netherlands (Kingdom of the),45,49.6,40
-1998,Europe,Netherlands (Kingdom of the),44.4,48.9,39.6
-1997,Europe,Netherlands (Kingdom of the),43.8,48.1,39.2
-1996,Europe,Netherlands (Kingdom of the),43.2,47.4,38.8
-1995,Europe,Netherlands (Kingdom of the),42.6,46.6,38.3
-1994,Europe,Netherlands (Kingdom of the),42,45.8,37.9
-1993,Europe,Netherlands (Kingdom of the),41.4,45,37.4
-1992,Europe,Netherlands (Kingdom of the),40.8,44.2,37
-1991,Europe,Netherlands (Kingdom of the),40.2,43.4,36.5
-1990,Europe,Netherlands (Kingdom of the),39.6,42.6,36.1
+2022,Europe,Netherlands,45.9,52.3,39.5
+2021,Europe,Netherlands,46.1,52.5,39.7
+2020,Europe,Netherlands,46.2,52.6,39.8
+2019,Europe,Netherlands,46.4,52.8,39.9
+2018,Europe,Netherlands,46.5,52.9,40.1
+2017,Europe,Netherlands,46.6,53,40.2
+2016,Europe,Netherlands,46.8,53.2,40.4
+2015,Europe,Netherlands,46.9,53.3,40.5
+2014,Europe,Netherlands,47.1,53.4,40.6
+2013,Europe,Netherlands,47.2,53.6,40.8
+2012,Europe,Netherlands,47.3,53.7,40.9
+2011,Europe,Netherlands,47.5,53.8,41.1
+2010,Europe,Netherlands,47.6,53.9,41.2
+2009,Europe,Netherlands,47.6,53.9,41.3
+2008,Europe,Netherlands,47.6,53.8,41.4
+2007,Europe,Netherlands,47.6,53.6,41.5
+2006,Europe,Netherlands,47.5,53.4,41.5
+2005,Europe,Netherlands,47.3,53,41.4
+2004,Europe,Netherlands,47,52.6,41.3
+2003,Europe,Netherlands,46.7,52.1,41.2
+2002,Europe,Netherlands,46.4,51.6,41
+2001,Europe,Netherlands,45.9,51,40.7
+2000,Europe,Netherlands,45.5,50.3,40.4
+1999,Europe,Netherlands,45,49.6,40
+1998,Europe,Netherlands,44.4,48.9,39.6
+1997,Europe,Netherlands,43.8,48.1,39.2
+1996,Europe,Netherlands,43.2,47.4,38.8
+1995,Europe,Netherlands,42.6,46.6,38.3
+1994,Europe,Netherlands,42,45.8,37.9
+1993,Europe,Netherlands,41.4,45,37.4
+1992,Europe,Netherlands,40.8,44.2,37
+1991,Europe,Netherlands,40.2,43.4,36.5
+1990,Europe,Netherlands,39.6,42.6,36.1
 2022,Western Pacific,New Zealand,67.4,71,64
 2021,Western Pacific,New Zealand,67.1,70.8,63.6
 2020,Western Pacific,New Zealand,66.8,70.7,63.1
@@ -4355,39 +4355,39 @@ Year,Region,Country,Both,Male,Female
 1992,Europe,Norway,41.5,47.5,35.2
 1991,Europe,Norway,40.8,46.6,34.6
 1990,Europe,Norway,40.1,45.7,34.1
-2022,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.8,63.9,73.3
-2021,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.8,63.9,73.2
-2020,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.7,63.9,73.1
-2019,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.6,64,72.9
-2018,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.6,64,72.8
-2017,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.5,64,72.6
-2016,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.3,63.9,72.4
-2015,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68.2,63.8,72.2
-2014,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",68,63.6,72
-2013,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",67.8,63.5,71.8
-2012,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",67.6,63.3,71.6
-2011,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",67.4,63.1,71.4
-2010,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",67.2,62.8,71.2
-2009,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",66.9,62.5,71
-2008,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",66.6,62.2,70.7
-2007,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",66.3,61.8,70.4
-2006,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",65.9,61.4,70.1
-2005,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",65.5,61,69.7
-2004,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",65.1,60.5,69.3
-2003,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",64.6,60,68.9
-2002,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",64.1,59.4,68.4
-2001,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",63.5,58.8,67.8
-2000,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",62.9,58.2,67.2
-1999,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",62.2,57.5,66.5
-1998,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",61.5,56.9,65.8
-1997,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",60.8,56.2,65.1
-1996,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",60.1,55.5,64.4
-1995,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",59.4,54.8,63.7
-1994,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",58.7,54,63
-1993,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",58,53.3,62.3
-1992,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",57.3,52.5,61.6
-1991,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",56.5,51.7,60.9
-1990,Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",55.8,50.9,60.2
+2022,Eastern Mediterranean,Palestine,68.8,63.9,73.3
+2021,Eastern Mediterranean,Palestine,68.8,63.9,73.2
+2020,Eastern Mediterranean,Palestine,68.7,63.9,73.1
+2019,Eastern Mediterranean,Palestine,68.6,64,72.9
+2018,Eastern Mediterranean,Palestine,68.6,64,72.8
+2017,Eastern Mediterranean,Palestine,68.5,64,72.6
+2016,Eastern Mediterranean,Palestine,68.3,63.9,72.4
+2015,Eastern Mediterranean,Palestine,68.2,63.8,72.2
+2014,Eastern Mediterranean,Palestine,68,63.6,72
+2013,Eastern Mediterranean,Palestine,67.8,63.5,71.8
+2012,Eastern Mediterranean,Palestine,67.6,63.3,71.6
+2011,Eastern Mediterranean,Palestine,67.4,63.1,71.4
+2010,Eastern Mediterranean,Palestine,67.2,62.8,71.2
+2009,Eastern Mediterranean,Palestine,66.9,62.5,71
+2008,Eastern Mediterranean,Palestine,66.6,62.2,70.7
+2007,Eastern Mediterranean,Palestine,66.3,61.8,70.4
+2006,Eastern Mediterranean,Palestine,65.9,61.4,70.1
+2005,Eastern Mediterranean,Palestine,65.5,61,69.7
+2004,Eastern Mediterranean,Palestine,65.1,60.5,69.3
+2003,Eastern Mediterranean,Palestine,64.6,60,68.9
+2002,Eastern Mediterranean,Palestine,64.1,59.4,68.4
+2001,Eastern Mediterranean,Palestine,63.5,58.8,67.8
+2000,Eastern Mediterranean,Palestine,62.9,58.2,67.2
+1999,Eastern Mediterranean,Palestine,62.2,57.5,66.5
+1998,Eastern Mediterranean,Palestine,61.5,56.9,65.8
+1997,Eastern Mediterranean,Palestine,60.8,56.2,65.1
+1996,Eastern Mediterranean,Palestine,60.1,55.5,64.4
+1995,Eastern Mediterranean,Palestine,59.4,54.8,63.7
+1994,Eastern Mediterranean,Palestine,58.7,54,63
+1993,Eastern Mediterranean,Palestine,58,53.3,62.3
+1992,Eastern Mediterranean,Palestine,57.3,52.5,61.6
+1991,Eastern Mediterranean,Palestine,56.5,51.7,60.9
+1990,Eastern Mediterranean,Palestine,55.8,50.9,60.2
 2022,Eastern Mediterranean,Oman,66.2,64.9,68.8
 2021,Eastern Mediterranean,Oman,65.5,64.2,68.1
 2020,Eastern Mediterranean,Oman,64.7,63.5,67.4
@@ -4784,72 +4784,72 @@ Year,Region,Country,Both,Male,Female
 1992,Eastern Mediterranean,Qatar,57.1,55.9,59.9
 1991,Eastern Mediterranean,Qatar,56.2,54.9,59.2
 1990,Eastern Mediterranean,Qatar,55.3,53.9,58.5
-2022,Western Pacific,Republic of Korea,35.9,46,24.9
-2021,Western Pacific,Republic of Korea,35.3,44.9,24.8
-2020,Western Pacific,Republic of Korea,34.8,43.9,24.8
-2019,Western Pacific,Republic of Korea,34.3,42.9,24.8
-2018,Western Pacific,Republic of Korea,33.7,41.9,24.8
-2017,Western Pacific,Republic of Korea,33.3,41,24.7
-2016,Western Pacific,Republic of Korea,32.8,40.1,24.7
-2015,Western Pacific,Republic of Korea,32.3,39.2,24.7
-2014,Western Pacific,Republic of Korea,31.9,38.3,24.7
-2013,Western Pacific,Republic of Korea,31.5,37.6,24.7
-2012,Western Pacific,Republic of Korea,31.1,36.9,24.8
-2011,Western Pacific,Republic of Korea,30.8,36.3,24.8
-2010,Western Pacific,Republic of Korea,30.5,35.7,24.8
-2009,Western Pacific,Republic of Korea,30.2,35.1,24.9
-2008,Western Pacific,Republic of Korea,30,34.6,24.9
-2007,Western Pacific,Republic of Korea,29.7,34,25
-2006,Western Pacific,Republic of Korea,29.4,33.4,25
-2005,Western Pacific,Republic of Korea,29.1,32.8,25.1
-2004,Western Pacific,Republic of Korea,28.8,32.1,25.1
-2003,Western Pacific,Republic of Korea,28.5,31.4,25.1
-2002,Western Pacific,Republic of Korea,28.1,30.6,25.1
-2001,Western Pacific,Republic of Korea,27.7,29.8,25.1
-2000,Western Pacific,Republic of Korea,27.3,29,25.1
-1999,Western Pacific,Republic of Korea,26.8,28.2,25
-1998,Western Pacific,Republic of Korea,26.4,27.3,24.9
-1997,Western Pacific,Republic of Korea,25.9,26.5,24.7
-1996,Western Pacific,Republic of Korea,25.5,25.8,24.6
-1995,Western Pacific,Republic of Korea,25,25,24.4
-1994,Western Pacific,Republic of Korea,24.5,24.2,24.2
-1993,Western Pacific,Republic of Korea,24,23.4,23.9
-1992,Western Pacific,Republic of Korea,23.5,22.7,23.7
-1991,Western Pacific,Republic of Korea,22.9,21.9,23.4
-1990,Western Pacific,Republic of Korea,22.4,21.1,23.1
-2022,Europe,Republic of Moldova,61.2,67.9,54.2
-2021,Europe,Republic of Moldova,60.8,66.9,54.3
-2020,Europe,Republic of Moldova,60.4,65.9,54.4
-2019,Europe,Republic of Moldova,59.9,64.9,54.5
-2018,Europe,Republic of Moldova,59.5,63.8,54.6
-2017,Europe,Republic of Moldova,59.1,62.8,54.7
-2016,Europe,Republic of Moldova,58.6,61.8,54.8
-2015,Europe,Republic of Moldova,58.2,60.8,54.9
-2014,Europe,Republic of Moldova,57.7,59.8,55
-2013,Europe,Republic of Moldova,57.3,58.8,55.1
-2012,Europe,Republic of Moldova,56.9,57.8,55.2
-2011,Europe,Republic of Moldova,56.5,56.9,55.3
-2010,Europe,Republic of Moldova,56,55.9,55.3
-2009,Europe,Republic of Moldova,55.6,54.9,55.4
-2008,Europe,Republic of Moldova,55.1,53.9,55.4
-2007,Europe,Republic of Moldova,54.7,52.9,55.4
-2006,Europe,Republic of Moldova,54.2,52,55.4
-2005,Europe,Republic of Moldova,53.7,51,55.3
-2004,Europe,Republic of Moldova,53.2,50,55.2
-2003,Europe,Republic of Moldova,52.7,49.1,55.1
-2002,Europe,Republic of Moldova,52.3,48.2,55
-2001,Europe,Republic of Moldova,51.8,47.4,54.9
-2000,Europe,Republic of Moldova,51.4,46.6,54.7
-1999,Europe,Republic of Moldova,51,46,54.6
-1998,Europe,Republic of Moldova,50.6,45.3,54.5
-1997,Europe,Republic of Moldova,50.3,44.8,54.4
-1996,Europe,Republic of Moldova,50.1,44.3,54.3
-1995,Europe,Republic of Moldova,49.9,43.9,54.2
-1994,Europe,Republic of Moldova,49.7,43.6,54.2
-1993,Europe,Republic of Moldova,49.5,43.3,54.2
-1992,Europe,Republic of Moldova,49.4,43,54.3
-1991,Europe,Republic of Moldova,49.4,42.8,54.3
-1990,Europe,Republic of Moldova,49.3,42.6,54.4
+2022,Western Pacific,South Korea,35.9,46,24.9
+2021,Western Pacific,South Korea,35.3,44.9,24.8
+2020,Western Pacific,South Korea,34.8,43.9,24.8
+2019,Western Pacific,South Korea,34.3,42.9,24.8
+2018,Western Pacific,South Korea,33.7,41.9,24.8
+2017,Western Pacific,South Korea,33.3,41,24.7
+2016,Western Pacific,South Korea,32.8,40.1,24.7
+2015,Western Pacific,South Korea,32.3,39.2,24.7
+2014,Western Pacific,South Korea,31.9,38.3,24.7
+2013,Western Pacific,South Korea,31.5,37.6,24.7
+2012,Western Pacific,South Korea,31.1,36.9,24.8
+2011,Western Pacific,South Korea,30.8,36.3,24.8
+2010,Western Pacific,South Korea,30.5,35.7,24.8
+2009,Western Pacific,South Korea,30.2,35.1,24.9
+2008,Western Pacific,South Korea,30,34.6,24.9
+2007,Western Pacific,South Korea,29.7,34,25
+2006,Western Pacific,South Korea,29.4,33.4,25
+2005,Western Pacific,South Korea,29.1,32.8,25.1
+2004,Western Pacific,South Korea,28.8,32.1,25.1
+2003,Western Pacific,South Korea,28.5,31.4,25.1
+2002,Western Pacific,South Korea,28.1,30.6,25.1
+2001,Western Pacific,South Korea,27.7,29.8,25.1
+2000,Western Pacific,South Korea,27.3,29,25.1
+1999,Western Pacific,South Korea,26.8,28.2,25
+1998,Western Pacific,South Korea,26.4,27.3,24.9
+1997,Western Pacific,South Korea,25.9,26.5,24.7
+1996,Western Pacific,South Korea,25.5,25.8,24.6
+1995,Western Pacific,South Korea,25,25,24.4
+1994,Western Pacific,South Korea,24.5,24.2,24.2
+1993,Western Pacific,South Korea,24,23.4,23.9
+1992,Western Pacific,South Korea,23.5,22.7,23.7
+1991,Western Pacific,South Korea,22.9,21.9,23.4
+1990,Western Pacific,South Korea,22.4,21.1,23.1
+2022,Europe,Moldova,61.2,67.9,54.2
+2021,Europe,Moldova,60.8,66.9,54.3
+2020,Europe,Moldova,60.4,65.9,54.4
+2019,Europe,Moldova,59.9,64.9,54.5
+2018,Europe,Moldova,59.5,63.8,54.6
+2017,Europe,Moldova,59.1,62.8,54.7
+2016,Europe,Moldova,58.6,61.8,54.8
+2015,Europe,Moldova,58.2,60.8,54.9
+2014,Europe,Moldova,57.7,59.8,55
+2013,Europe,Moldova,57.3,58.8,55.1
+2012,Europe,Moldova,56.9,57.8,55.2
+2011,Europe,Moldova,56.5,56.9,55.3
+2010,Europe,Moldova,56,55.9,55.3
+2009,Europe,Moldova,55.6,54.9,55.4
+2008,Europe,Moldova,55.1,53.9,55.4
+2007,Europe,Moldova,54.7,52.9,55.4
+2006,Europe,Moldova,54.2,52,55.4
+2005,Europe,Moldova,53.7,51,55.3
+2004,Europe,Moldova,53.2,50,55.2
+2003,Europe,Moldova,52.7,49.1,55.1
+2002,Europe,Moldova,52.3,48.2,55
+2001,Europe,Moldova,51.8,47.4,54.9
+2000,Europe,Moldova,51.4,46.6,54.7
+1999,Europe,Moldova,51,46,54.6
+1998,Europe,Moldova,50.6,45.3,54.5
+1997,Europe,Moldova,50.3,44.8,54.4
+1996,Europe,Moldova,50.1,44.3,54.3
+1995,Europe,Moldova,49.9,43.9,54.2
+1994,Europe,Moldova,49.7,43.6,54.2
+1993,Europe,Moldova,49.5,43.3,54.2
+1992,Europe,Moldova,49.4,43,54.3
+1991,Europe,Moldova,49.4,42.8,54.3
+1990,Europe,Moldova,49.3,42.6,54.4
 2022,Europe,Romania,65.1,73.8,56.1
 2021,Europe,Romania,64.1,72.6,55.3
 2020,Europe,Romania,63.1,71.3,54.6
@@ -4883,39 +4883,39 @@ Year,Region,Country,Both,Male,Female
 1992,Europe,Romania,39.9,40.5,39.1
 1991,Europe,Romania,39.6,40.1,39
 1990,Europe,Romania,39.3,39.7,38.8
-2022,Europe,Russian Federation,58.8,66.6,50.4
-2021,Europe,Russian Federation,58.3,65.6,50.5
-2020,Europe,Russian Federation,57.9,64.5,50.7
-2019,Europe,Russian Federation,57.5,63.5,50.8
-2018,Europe,Russian Federation,57.1,62.5,51
-2017,Europe,Russian Federation,56.6,61.5,51.1
-2016,Europe,Russian Federation,56.2,60.4,51.2
-2015,Europe,Russian Federation,55.8,59.4,51.4
-2014,Europe,Russian Federation,55.3,58.3,51.5
-2013,Europe,Russian Federation,54.9,57.3,51.6
-2012,Europe,Russian Federation,54.4,56.2,51.8
-2011,Europe,Russian Federation,54,55.2,51.9
-2010,Europe,Russian Federation,53.5,54.1,52
-2009,Europe,Russian Federation,53,52.9,52.1
-2008,Europe,Russian Federation,52.5,51.8,52.2
-2007,Europe,Russian Federation,52,50.6,52.3
-2006,Europe,Russian Federation,51.5,49.4,52.3
-2005,Europe,Russian Federation,51,48.3,52.4
-2004,Europe,Russian Federation,50.4,47.2,52.4
-2003,Europe,Russian Federation,49.9,46.1,52.4
-2002,Europe,Russian Federation,49.4,45.2,52.4
-2001,Europe,Russian Federation,49,44.3,52.3
-2000,Europe,Russian Federation,48.6,43.5,52.3
-1999,Europe,Russian Federation,48.3,42.9,52.3
-1998,Europe,Russian Federation,48,42.3,52.3
-1997,Europe,Russian Federation,47.8,41.8,52.3
-1996,Europe,Russian Federation,47.6,41.4,52.3
-1995,Europe,Russian Federation,47.5,41.2,52.4
-1994,Europe,Russian Federation,47.4,40.9,52.5
-1993,Europe,Russian Federation,47.4,40.8,52.7
-1992,Europe,Russian Federation,47.5,40.7,52.9
-1991,Europe,Russian Federation,47.6,40.6,53.1
-1990,Europe,Russian Federation,47.7,40.6,53.4
+2022,Europe,Russia,58.8,66.6,50.4
+2021,Europe,Russia,58.3,65.6,50.5
+2020,Europe,Russia,57.9,64.5,50.7
+2019,Europe,Russia,57.5,63.5,50.8
+2018,Europe,Russia,57.1,62.5,51
+2017,Europe,Russia,56.6,61.5,51.1
+2016,Europe,Russia,56.2,60.4,51.2
+2015,Europe,Russia,55.8,59.4,51.4
+2014,Europe,Russia,55.3,58.3,51.5
+2013,Europe,Russia,54.9,57.3,51.6
+2012,Europe,Russia,54.4,56.2,51.8
+2011,Europe,Russia,54,55.2,51.9
+2010,Europe,Russia,53.5,54.1,52
+2009,Europe,Russia,53,52.9,52.1
+2008,Europe,Russia,52.5,51.8,52.2
+2007,Europe,Russia,52,50.6,52.3
+2006,Europe,Russia,51.5,49.4,52.3
+2005,Europe,Russia,51,48.3,52.4
+2004,Europe,Russia,50.4,47.2,52.4
+2003,Europe,Russia,49.9,46.1,52.4
+2002,Europe,Russia,49.4,45.2,52.4
+2001,Europe,Russia,49,44.3,52.3
+2000,Europe,Russia,48.6,43.5,52.3
+1999,Europe,Russia,48.3,42.9,52.3
+1998,Europe,Russia,48,42.3,52.3
+1997,Europe,Russia,47.8,41.8,52.3
+1996,Europe,Russia,47.6,41.4,52.3
+1995,Europe,Russia,47.5,41.2,52.4
+1994,Europe,Russia,47.4,40.9,52.5
+1993,Europe,Russia,47.4,40.8,52.7
+1992,Europe,Russia,47.5,40.7,52.9
+1991,Europe,Russia,47.6,40.6,53.1
+1990,Europe,Russia,47.7,40.6,53.4
 2022,Africa,Rwanda,19.8,11.5,27.3
 2021,Africa,Rwanda,19.1,11,26.4
 2020,Africa,Rwanda,18.4,10.5,25.5
@@ -5477,39 +5477,39 @@ Year,Region,Country,Both,Male,Female
 1992,Africa,South Africa,40.9,26.3,53.2
 1991,Africa,South Africa,40,25.4,52.5
 1990,Africa,South Africa,39.2,24.5,51.7
-2022,Eastern Mediterranean,South Sudan,24.2,17.6,30.2
-2021,Eastern Mediterranean,South Sudan,23.6,17.1,29.5
-2020,Eastern Mediterranean,South Sudan,23,16.6,28.8
-2019,Eastern Mediterranean,South Sudan,22.4,16.1,28
-2018,Eastern Mediterranean,South Sudan,21.8,15.7,27.3
-2017,Eastern Mediterranean,South Sudan,21.2,15.3,26.6
-2016,Eastern Mediterranean,South Sudan,20.6,14.9,25.9
-2015,Eastern Mediterranean,South Sudan,20.1,14.5,25.3
-2014,Eastern Mediterranean,South Sudan,19.6,14.2,24.6
-2013,Eastern Mediterranean,South Sudan,19.1,13.8,23.9
-2012,Eastern Mediterranean,South Sudan,18.6,13.5,23.3
-2011,Eastern Mediterranean,South Sudan,18.1,13.2,22.7
-2010,Eastern Mediterranean,South Sudan,17.7,12.9,22
-2009,Eastern Mediterranean,South Sudan,17.2,12.6,21.4
-2008,Eastern Mediterranean,South Sudan,16.8,12.3,20.8
-2007,Eastern Mediterranean,South Sudan,16.3,12,20.2
-2006,Eastern Mediterranean,South Sudan,15.9,11.7,19.6
-2005,Eastern Mediterranean,South Sudan,15.4,11.4,18.9
-2004,Eastern Mediterranean,South Sudan,14.9,11,18.3
-2003,Eastern Mediterranean,South Sudan,14.4,10.7,17.7
-2002,Eastern Mediterranean,South Sudan,14,10.4,17.1
-2001,Eastern Mediterranean,South Sudan,13.5,10,16.5
-2000,Eastern Mediterranean,South Sudan,13.1,9.7,16
-1999,Eastern Mediterranean,South Sudan,12.7,9.4,15.4
-1998,Eastern Mediterranean,South Sudan,12.3,9.1,14.9
-1997,Eastern Mediterranean,South Sudan,11.9,8.8,14.4
-1996,Eastern Mediterranean,South Sudan,11.5,8.5,14
-1995,Eastern Mediterranean,South Sudan,11.1,8.3,13.6
-1994,Eastern Mediterranean,South Sudan,10.8,8,13.2
-1993,Eastern Mediterranean,South Sudan,10.5,7.7,12.8
-1992,Eastern Mediterranean,South Sudan,10.1,7.5,12.4
-1991,Eastern Mediterranean,South Sudan,9.8,7.2,12.1
-1990,Eastern Mediterranean,South Sudan,9.5,7,11.7
+2022,Eastern Mediterranean,S. Sudan,24.2,17.6,30.2
+2021,Eastern Mediterranean,S. Sudan,23.6,17.1,29.5
+2020,Eastern Mediterranean,S. Sudan,23,16.6,28.8
+2019,Eastern Mediterranean,S. Sudan,22.4,16.1,28
+2018,Eastern Mediterranean,S. Sudan,21.8,15.7,27.3
+2017,Eastern Mediterranean,S. Sudan,21.2,15.3,26.6
+2016,Eastern Mediterranean,S. Sudan,20.6,14.9,25.9
+2015,Eastern Mediterranean,S. Sudan,20.1,14.5,25.3
+2014,Eastern Mediterranean,S. Sudan,19.6,14.2,24.6
+2013,Eastern Mediterranean,S. Sudan,19.1,13.8,23.9
+2012,Eastern Mediterranean,S. Sudan,18.6,13.5,23.3
+2011,Eastern Mediterranean,S. Sudan,18.1,13.2,22.7
+2010,Eastern Mediterranean,S. Sudan,17.7,12.9,22
+2009,Eastern Mediterranean,S. Sudan,17.2,12.6,21.4
+2008,Eastern Mediterranean,S. Sudan,16.8,12.3,20.8
+2007,Eastern Mediterranean,S. Sudan,16.3,12,20.2
+2006,Eastern Mediterranean,S. Sudan,15.9,11.7,19.6
+2005,Eastern Mediterranean,S. Sudan,15.4,11.4,18.9
+2004,Eastern Mediterranean,S. Sudan,14.9,11,18.3
+2003,Eastern Mediterranean,S. Sudan,14.4,10.7,17.7
+2002,Eastern Mediterranean,S. Sudan,14,10.4,17.1
+2001,Eastern Mediterranean,S. Sudan,13.5,10,16.5
+2000,Eastern Mediterranean,S. Sudan,13.1,9.7,16
+1999,Eastern Mediterranean,S. Sudan,12.7,9.4,15.4
+1998,Eastern Mediterranean,S. Sudan,12.3,9.1,14.9
+1997,Eastern Mediterranean,S. Sudan,11.9,8.8,14.4
+1996,Eastern Mediterranean,S. Sudan,11.5,8.5,14
+1995,Eastern Mediterranean,S. Sudan,11.1,8.3,13.6
+1994,Eastern Mediterranean,S. Sudan,10.8,8,13.2
+1993,Eastern Mediterranean,S. Sudan,10.5,7.7,12.8
+1992,Eastern Mediterranean,S. Sudan,10.1,7.5,12.4
+1991,Eastern Mediterranean,S. Sudan,9.8,7.2,12.1
+1990,Eastern Mediterranean,S. Sudan,9.5,7,11.7
 2022,Europe,Spain,49.9,59.9,39.8
 2021,Europe,Spain,50.4,60.4,40.3
 2020,Europe,Spain,50.8,60.8,40.8
@@ -5708,72 +5708,72 @@ Year,Region,Country,Both,Male,Female
 1992,Europe,Switzerland,39.9,49,31.1
 1991,Europe,Switzerland,39.8,48.7,31
 1990,Europe,Switzerland,39.6,48.4,31
-2022,Eastern Mediterranean,Syrian Arab Republic,71.1,69,73
-2021,Eastern Mediterranean,Syrian Arab Republic,70.8,68.7,72.7
-2020,Eastern Mediterranean,Syrian Arab Republic,70.6,68.5,72.4
-2019,Eastern Mediterranean,Syrian Arab Republic,70.3,68.3,72.1
-2018,Eastern Mediterranean,Syrian Arab Republic,70,68,71.8
-2017,Eastern Mediterranean,Syrian Arab Republic,69.7,67.7,71.4
-2016,Eastern Mediterranean,Syrian Arab Republic,69.4,67.4,71.1
-2015,Eastern Mediterranean,Syrian Arab Republic,69,67,70.7
-2014,Eastern Mediterranean,Syrian Arab Republic,68.6,66.7,70.4
-2013,Eastern Mediterranean,Syrian Arab Republic,68.2,66.3,70
-2012,Eastern Mediterranean,Syrian Arab Republic,67.8,65.9,69.7
-2011,Eastern Mediterranean,Syrian Arab Republic,67.4,65.5,69.3
-2010,Eastern Mediterranean,Syrian Arab Republic,67,65.1,68.9
-2009,Eastern Mediterranean,Syrian Arab Republic,66.6,64.6,68.6
-2008,Eastern Mediterranean,Syrian Arab Republic,66.2,64.1,68.2
-2007,Eastern Mediterranean,Syrian Arab Republic,65.7,63.6,67.8
-2006,Eastern Mediterranean,Syrian Arab Republic,65.3,63.1,67.3
-2005,Eastern Mediterranean,Syrian Arab Republic,64.8,62.6,66.9
-2004,Eastern Mediterranean,Syrian Arab Republic,64.2,62,66.4
-2003,Eastern Mediterranean,Syrian Arab Republic,63.6,61.4,65.8
-2002,Eastern Mediterranean,Syrian Arab Republic,63,60.7,65.2
-2001,Eastern Mediterranean,Syrian Arab Republic,62.3,60,64.6
-2000,Eastern Mediterranean,Syrian Arab Republic,61.6,59.3,63.9
-1999,Eastern Mediterranean,Syrian Arab Republic,60.9,58.6,63.2
-1998,Eastern Mediterranean,Syrian Arab Republic,60.2,57.8,62.5
-1997,Eastern Mediterranean,Syrian Arab Republic,59.4,57.1,61.8
-1996,Eastern Mediterranean,Syrian Arab Republic,58.7,56.3,61.1
-1995,Eastern Mediterranean,Syrian Arab Republic,57.9,55.5,60.4
-1994,Eastern Mediterranean,Syrian Arab Republic,57.2,54.7,59.7
-1993,Eastern Mediterranean,Syrian Arab Republic,56.4,53.9,59
-1992,Eastern Mediterranean,Syrian Arab Republic,55.7,53.1,58.3
-1991,Eastern Mediterranean,Syrian Arab Republic,54.9,52.2,57.7
-1990,Eastern Mediterranean,Syrian Arab Republic,54.2,51.4,57
-2022,Europe,Tï¿½rkiye,67.6,65.2,69.7
-2021,Europe,Tï¿½rkiye,67.3,64.9,69.5
-2020,Europe,Tï¿½rkiye,67.1,64.7,69.2
-2019,Europe,Tï¿½rkiye,66.8,64.5,68.9
-2018,Europe,Tï¿½rkiye,66.6,64.3,68.6
-2017,Europe,Tï¿½rkiye,66.3,64,68.3
-2016,Europe,Tï¿½rkiye,66,63.7,68.1
-2015,Europe,Tï¿½rkiye,65.7,63.4,67.8
-2014,Europe,Tï¿½rkiye,65.4,63.1,67.5
-2013,Europe,Tï¿½rkiye,65.1,62.7,67.2
-2012,Europe,Tï¿½rkiye,64.8,62.4,66.9
-2011,Europe,Tï¿½rkiye,64.5,62,66.7
-2010,Europe,Tï¿½rkiye,64.2,61.7,66.5
-2009,Europe,Tï¿½rkiye,63.9,61.3,66.3
-2008,Europe,Tï¿½rkiye,63.6,60.9,66.1
-2007,Europe,Tï¿½rkiye,63.3,60.5,65.9
-2006,Europe,Tï¿½rkiye,63,60,65.7
-2005,Europe,Tï¿½rkiye,62.6,59.5,65.5
-2004,Europe,Tï¿½rkiye,62.2,58.9,65.2
-2003,Europe,Tï¿½rkiye,61.7,58.3,64.9
-2002,Europe,Tï¿½rkiye,61.2,57.6,64.5
-2001,Europe,Tï¿½rkiye,60.6,56.8,64.1
-2000,Europe,Tï¿½rkiye,60,56,63.7
-1999,Europe,Tï¿½rkiye,59.4,55.2,63.3
-1998,Europe,Tï¿½rkiye,58.7,54.3,62.8
-1997,Europe,Tï¿½rkiye,58,53.4,62.3
-1996,Europe,Tï¿½rkiye,57.3,52.5,61.8
-1995,Europe,Tï¿½rkiye,56.6,51.5,61.4
-1994,Europe,Tï¿½rkiye,55.8,50.5,60.9
-1993,Europe,Tï¿½rkiye,55.1,49.5,60.4
-1992,Europe,Tï¿½rkiye,54.3,48.4,59.9
-1991,Europe,Tï¿½rkiye,53.5,47.4,59.4
-1990,Europe,Tï¿½rkiye,52.8,46.3,58.9
+2022,Eastern Mediterranean,Syria,71.1,69,73
+2021,Eastern Mediterranean,Syria,70.8,68.7,72.7
+2020,Eastern Mediterranean,Syria,70.6,68.5,72.4
+2019,Eastern Mediterranean,Syria,70.3,68.3,72.1
+2018,Eastern Mediterranean,Syria,70,68,71.8
+2017,Eastern Mediterranean,Syria,69.7,67.7,71.4
+2016,Eastern Mediterranean,Syria,69.4,67.4,71.1
+2015,Eastern Mediterranean,Syria,69,67,70.7
+2014,Eastern Mediterranean,Syria,68.6,66.7,70.4
+2013,Eastern Mediterranean,Syria,68.2,66.3,70
+2012,Eastern Mediterranean,Syria,67.8,65.9,69.7
+2011,Eastern Mediterranean,Syria,67.4,65.5,69.3
+2010,Eastern Mediterranean,Syria,67,65.1,68.9
+2009,Eastern Mediterranean,Syria,66.6,64.6,68.6
+2008,Eastern Mediterranean,Syria,66.2,64.1,68.2
+2007,Eastern Mediterranean,Syria,65.7,63.6,67.8
+2006,Eastern Mediterranean,Syria,65.3,63.1,67.3
+2005,Eastern Mediterranean,Syria,64.8,62.6,66.9
+2004,Eastern Mediterranean,Syria,64.2,62,66.4
+2003,Eastern Mediterranean,Syria,63.6,61.4,65.8
+2002,Eastern Mediterranean,Syria,63,60.7,65.2
+2001,Eastern Mediterranean,Syria,62.3,60,64.6
+2000,Eastern Mediterranean,Syria,61.6,59.3,63.9
+1999,Eastern Mediterranean,Syria,60.9,58.6,63.2
+1998,Eastern Mediterranean,Syria,60.2,57.8,62.5
+1997,Eastern Mediterranean,Syria,59.4,57.1,61.8
+1996,Eastern Mediterranean,Syria,58.7,56.3,61.1
+1995,Eastern Mediterranean,Syria,57.9,55.5,60.4
+1994,Eastern Mediterranean,Syria,57.2,54.7,59.7
+1993,Eastern Mediterranean,Syria,56.4,53.9,59
+1992,Eastern Mediterranean,Syria,55.7,53.1,58.3
+1991,Eastern Mediterranean,Syria,54.9,52.2,57.7
+1990,Eastern Mediterranean,Syria,54.2,51.4,57
+2022,Europe,Turkey,67.6,65.2,69.7
+2021,Europe,Turkey,67.3,64.9,69.5
+2020,Europe,Turkey,67.1,64.7,69.2
+2019,Europe,Turkey,66.8,64.5,68.9
+2018,Europe,Turkey,66.6,64.3,68.6
+2017,Europe,Turkey,66.3,64,68.3
+2016,Europe,Turkey,66,63.7,68.1
+2015,Europe,Turkey,65.7,63.4,67.8
+2014,Europe,Turkey,65.4,63.1,67.5
+2013,Europe,Turkey,65.1,62.7,67.2
+2012,Europe,Turkey,64.8,62.4,66.9
+2011,Europe,Turkey,64.5,62,66.7
+2010,Europe,Turkey,64.2,61.7,66.5
+2009,Europe,Turkey,63.9,61.3,66.3
+2008,Europe,Turkey,63.6,60.9,66.1
+2007,Europe,Turkey,63.3,60.5,65.9
+2006,Europe,Turkey,63,60,65.7
+2005,Europe,Turkey,62.6,59.5,65.5
+2004,Europe,Turkey,62.2,58.9,65.2
+2003,Europe,Turkey,61.7,58.3,64.9
+2002,Europe,Turkey,61.2,57.6,64.5
+2001,Europe,Turkey,60.6,56.8,64.1
+2000,Europe,Turkey,60,56,63.7
+1999,Europe,Turkey,59.4,55.2,63.3
+1998,Europe,Turkey,58.7,54.3,62.8
+1997,Europe,Turkey,58,53.4,62.3
+1996,Europe,Turkey,57.3,52.5,61.8
+1995,Europe,Turkey,56.6,51.5,61.4
+1994,Europe,Turkey,55.8,50.5,60.9
+1993,Europe,Turkey,55.1,49.5,60.4
+1992,Europe,Turkey,54.3,48.4,59.9
+1991,Europe,Turkey,53.5,47.4,59.4
+1990,Europe,Turkey,52.8,46.3,58.9
 2022,Europe,Tajikistan,58.9,60.6,57
 2021,Europe,Tajikistan,58,59.8,56
 2020,Europe,Tajikistan,57.1,59.1,55
@@ -5840,39 +5840,39 @@ Year,Region,Country,Both,Male,Female
 1992,South-East Asia,Thailand,19.8,13.4,25.8
 1991,South-East Asia,Thailand,19,12.8,25
 1990,South-East Asia,Thailand,18.3,12.2,24.1
-2022,South-East Asia,Timor-Leste,14.4,11.6,17.3
-2021,South-East Asia,Timor-Leste,13.7,11.1,16.5
-2020,South-East Asia,Timor-Leste,13.1,10.6,15.7
-2019,South-East Asia,Timor-Leste,12.5,10.1,14.9
-2018,South-East Asia,Timor-Leste,11.9,9.7,14.2
-2017,South-East Asia,Timor-Leste,11.3,9.3,13.5
-2016,South-East Asia,Timor-Leste,10.8,8.9,12.8
-2015,South-East Asia,Timor-Leste,10.3,8.5,12.2
-2014,South-East Asia,Timor-Leste,9.8,8.1,11.6
-2013,South-East Asia,Timor-Leste,9.3,7.8,11
-2012,South-East Asia,Timor-Leste,8.9,7.4,10.4
-2011,South-East Asia,Timor-Leste,8.4,7.1,9.9
-2010,South-East Asia,Timor-Leste,8.1,6.9,9.4
-2009,South-East Asia,Timor-Leste,7.7,6.6,9
-2008,South-East Asia,Timor-Leste,7.4,6.3,8.6
-2007,South-East Asia,Timor-Leste,7.1,6.1,8.2
-2006,South-East Asia,Timor-Leste,6.8,5.8,7.8
-2005,South-East Asia,Timor-Leste,6.5,5.6,7.5
-2004,South-East Asia,Timor-Leste,6.3,5.4,7.2
-2003,South-East Asia,Timor-Leste,6,5.2,6.9
-2002,South-East Asia,Timor-Leste,5.8,5,6.6
-2001,South-East Asia,Timor-Leste,5.5,4.8,6.4
-2000,South-East Asia,Timor-Leste,5.3,4.6,6.1
-1999,South-East Asia,Timor-Leste,5.1,4.4,5.9
-1998,South-East Asia,Timor-Leste,4.9,4.3,5.6
-1997,South-East Asia,Timor-Leste,4.7,4.1,5.4
-1996,South-East Asia,Timor-Leste,4.6,4,5.2
-1995,South-East Asia,Timor-Leste,4.4,3.9,4.9
-1994,South-East Asia,Timor-Leste,4.2,3.7,4.7
-1993,South-East Asia,Timor-Leste,4.1,3.6,4.5
-1992,South-East Asia,Timor-Leste,3.9,3.5,4.3
-1991,South-East Asia,Timor-Leste,3.8,3.4,4.1
-1990,South-East Asia,Timor-Leste,3.6,3.4,3.9
+2022,South-East Asia,Timor,14.4,11.6,17.3
+2021,South-East Asia,Timor,13.7,11.1,16.5
+2020,South-East Asia,Timor,13.1,10.6,15.7
+2019,South-East Asia,Timor,12.5,10.1,14.9
+2018,South-East Asia,Timor,11.9,9.7,14.2
+2017,South-East Asia,Timor,11.3,9.3,13.5
+2016,South-East Asia,Timor,10.8,8.9,12.8
+2015,South-East Asia,Timor,10.3,8.5,12.2
+2014,South-East Asia,Timor,9.8,8.1,11.6
+2013,South-East Asia,Timor,9.3,7.8,11
+2012,South-East Asia,Timor,8.9,7.4,10.4
+2011,South-East Asia,Timor,8.4,7.1,9.9
+2010,South-East Asia,Timor,8.1,6.9,9.4
+2009,South-East Asia,Timor,7.7,6.6,9
+2008,South-East Asia,Timor,7.4,6.3,8.6
+2007,South-East Asia,Timor,7.1,6.1,8.2
+2006,South-East Asia,Timor,6.8,5.8,7.8
+2005,South-East Asia,Timor,6.5,5.6,7.5
+2004,South-East Asia,Timor,6.3,5.4,7.2
+2003,South-East Asia,Timor,6,5.2,6.9
+2002,South-East Asia,Timor,5.8,5,6.6
+2001,South-East Asia,Timor,5.5,4.8,6.4
+2000,South-East Asia,Timor,5.3,4.6,6.1
+1999,South-East Asia,Timor,5.1,4.4,5.9
+1998,South-East Asia,Timor,4.9,4.3,5.6
+1997,South-East Asia,Timor,4.7,4.1,5.4
+1996,South-East Asia,Timor,4.6,4,5.2
+1995,South-East Asia,Timor,4.4,3.9,4.9
+1994,South-East Asia,Timor,4.2,3.7,4.7
+1993,South-East Asia,Timor,4.1,3.6,4.5
+1992,South-East Asia,Timor,3.9,3.5,4.3
+1991,South-East Asia,Timor,3.8,3.4,4.1
+1990,South-East Asia,Timor,3.6,3.4,3.9
 2022,Africa,Togo,31,21.9,40
 2021,Africa,Togo,30.2,21.5,38.8
 2020,Africa,Togo,29.4,21.1,37.6
@@ -6203,72 +6203,72 @@ Year,Region,Country,Both,Male,Female
 1992,Eastern Mediterranean,United Arab Emirates,58,56.4,61.8
 1991,Eastern Mediterranean,United Arab Emirates,57.1,55.3,61.3
 1990,Eastern Mediterranean,United Arab Emirates,56.2,54.2,60.7
-2022,Europe,United Kingdom of Great Britain and Northern Ireland,61.4,65.5,57.5
-2021,Europe,United Kingdom of Great Britain and Northern Ireland,61.3,65.4,57.4
-2020,Europe,United Kingdom of Great Britain and Northern Ireland,61.3,65.4,57.2
-2019,Europe,United Kingdom of Great Britain and Northern Ireland,61.2,65.4,57.1
-2018,Europe,United Kingdom of Great Britain and Northern Ireland,61.1,65.3,57
-2017,Europe,United Kingdom of Great Britain and Northern Ireland,61,65.3,56.8
-2016,Europe,United Kingdom of Great Britain and Northern Ireland,60.9,65.3,56.7
-2015,Europe,United Kingdom of Great Britain and Northern Ireland,60.8,65.2,56.5
-2014,Europe,United Kingdom of Great Britain and Northern Ireland,60.7,65.2,56.4
-2013,Europe,United Kingdom of Great Britain and Northern Ireland,60.6,65.2,56.2
-2012,Europe,United Kingdom of Great Britain and Northern Ireland,60.6,65.2,56.1
-2011,Europe,United Kingdom of Great Britain and Northern Ireland,60.5,65.2,56
-2010,Europe,United Kingdom of Great Britain and Northern Ireland,60.4,65.2,55.8
-2009,Europe,United Kingdom of Great Britain and Northern Ireland,60.3,65.1,55.6
-2008,Europe,United Kingdom of Great Britain and Northern Ireland,60.1,64.9,55.4
-2007,Europe,United Kingdom of Great Britain and Northern Ireland,59.8,64.6,55.1
-2006,Europe,United Kingdom of Great Britain and Northern Ireland,59.5,64.3,54.7
-2005,Europe,United Kingdom of Great Britain and Northern Ireland,59.1,63.9,54.4
-2004,Europe,United Kingdom of Great Britain and Northern Ireland,58.6,63.5,53.9
-2003,Europe,United Kingdom of Great Britain and Northern Ireland,58.1,62.9,53.4
-2002,Europe,United Kingdom of Great Britain and Northern Ireland,57.5,62.3,52.8
-2001,Europe,United Kingdom of Great Britain and Northern Ireland,56.8,61.6,52.1
-2000,Europe,United Kingdom of Great Britain and Northern Ireland,56,60.8,51.4
-1999,Europe,United Kingdom of Great Britain and Northern Ireland,55.2,60,50.5
-1998,Europe,United Kingdom of Great Britain and Northern Ireland,54.3,59.1,49.6
-1997,Europe,United Kingdom of Great Britain and Northern Ireland,53.4,58.1,48.7
-1996,Europe,United Kingdom of Great Britain and Northern Ireland,52.4,57.1,47.7
-1995,Europe,United Kingdom of Great Britain and Northern Ireland,51.3,56.1,46.6
-1994,Europe,United Kingdom of Great Britain and Northern Ireland,50.2,55,45.5
-1993,Europe,United Kingdom of Great Britain and Northern Ireland,49.1,53.9,44.4
-1992,Europe,United Kingdom of Great Britain and Northern Ireland,48,52.8,43.3
-1991,Europe,United Kingdom of Great Britain and Northern Ireland,46.9,51.7,42.2
-1990,Europe,United Kingdom of Great Britain and Northern Ireland,45.7,50.5,41
-2022,Africa,United Republic of Tanzania,32.2,23.1,40.8
-2021,Africa,United Republic of Tanzania,31.4,22.5,39.7
-2020,Africa,United Republic of Tanzania,30.5,21.9,38.5
-2019,Africa,United Republic of Tanzania,29.6,21.3,37.4
-2018,Africa,United Republic of Tanzania,28.8,20.8,36.3
-2017,Africa,United Republic of Tanzania,28,20.3,35.2
-2016,Africa,United Republic of Tanzania,27.2,19.8,34.1
-2015,Africa,United Republic of Tanzania,26.4,19.3,33.1
-2014,Africa,United Republic of Tanzania,25.6,18.9,32
-2013,Africa,United Republic of Tanzania,24.9,18.5,30.9
-2012,Africa,United Republic of Tanzania,24.1,18.1,29.9
-2011,Africa,United Republic of Tanzania,23.4,17.8,28.9
-2010,Africa,United Republic of Tanzania,22.7,17.4,27.8
-2009,Africa,United Republic of Tanzania,22,17,26.8
-2008,Africa,United Republic of Tanzania,21.3,16.7,25.8
-2007,Africa,United Republic of Tanzania,20.6,16.3,24.8
-2006,Africa,United Republic of Tanzania,20,15.9,23.8
-2005,Africa,United Republic of Tanzania,19.3,15.5,22.9
-2004,Africa,United Republic of Tanzania,18.6,15.1,21.9
-2003,Africa,United Republic of Tanzania,17.9,14.6,21
-2002,Africa,United Republic of Tanzania,17.2,14.2,20.1
-2001,Africa,United Republic of Tanzania,16.6,13.8,19.3
-2000,Africa,United Republic of Tanzania,16,13.3,18.4
-1999,Africa,United Republic of Tanzania,15.4,12.9,17.7
-1998,Africa,United Republic of Tanzania,14.8,12.5,16.9
-1997,Africa,United Republic of Tanzania,14.2,12.1,16.2
-1996,Africa,United Republic of Tanzania,13.7,11.7,15.6
-1995,Africa,United Republic of Tanzania,13.2,11.4,14.9
-1994,Africa,United Republic of Tanzania,12.7,11,14.4
-1993,Africa,United Republic of Tanzania,12.3,10.6,13.8
-1992,Africa,United Republic of Tanzania,11.8,10.3,13.3
-1991,Africa,United Republic of Tanzania,11.4,10,12.8
-1990,Africa,United Republic of Tanzania,11,9.6,12.3
+2022,Europe,United Kingdom,61.4,65.5,57.5
+2021,Europe,United Kingdom,61.3,65.4,57.4
+2020,Europe,United Kingdom,61.3,65.4,57.2
+2019,Europe,United Kingdom,61.2,65.4,57.1
+2018,Europe,United Kingdom,61.1,65.3,57
+2017,Europe,United Kingdom,61,65.3,56.8
+2016,Europe,United Kingdom,60.9,65.3,56.7
+2015,Europe,United Kingdom,60.8,65.2,56.5
+2014,Europe,United Kingdom,60.7,65.2,56.4
+2013,Europe,United Kingdom,60.6,65.2,56.2
+2012,Europe,United Kingdom,60.6,65.2,56.1
+2011,Europe,United Kingdom,60.5,65.2,56
+2010,Europe,United Kingdom,60.4,65.2,55.8
+2009,Europe,United Kingdom,60.3,65.1,55.6
+2008,Europe,United Kingdom,60.1,64.9,55.4
+2007,Europe,United Kingdom,59.8,64.6,55.1
+2006,Europe,United Kingdom,59.5,64.3,54.7
+2005,Europe,United Kingdom,59.1,63.9,54.4
+2004,Europe,United Kingdom,58.6,63.5,53.9
+2003,Europe,United Kingdom,58.1,62.9,53.4
+2002,Europe,United Kingdom,57.5,62.3,52.8
+2001,Europe,United Kingdom,56.8,61.6,52.1
+2000,Europe,United Kingdom,56,60.8,51.4
+1999,Europe,United Kingdom,55.2,60,50.5
+1998,Europe,United Kingdom,54.3,59.1,49.6
+1997,Europe,United Kingdom,53.4,58.1,48.7
+1996,Europe,United Kingdom,52.4,57.1,47.7
+1995,Europe,United Kingdom,51.3,56.1,46.6
+1994,Europe,United Kingdom,50.2,55,45.5
+1993,Europe,United Kingdom,49.1,53.9,44.4
+1992,Europe,United Kingdom,48,52.8,43.3
+1991,Europe,United Kingdom,46.9,51.7,42.2
+1990,Europe,United Kingdom,45.7,50.5,41
+2022,Africa,Tanzania,32.2,23.1,40.8
+2021,Africa,Tanzania,31.4,22.5,39.7
+2020,Africa,Tanzania,30.5,21.9,38.5
+2019,Africa,Tanzania,29.6,21.3,37.4
+2018,Africa,Tanzania,28.8,20.8,36.3
+2017,Africa,Tanzania,28,20.3,35.2
+2016,Africa,Tanzania,27.2,19.8,34.1
+2015,Africa,Tanzania,26.4,19.3,33.1
+2014,Africa,Tanzania,25.6,18.9,32
+2013,Africa,Tanzania,24.9,18.5,30.9
+2012,Africa,Tanzania,24.1,18.1,29.9
+2011,Africa,Tanzania,23.4,17.8,28.9
+2010,Africa,Tanzania,22.7,17.4,27.8
+2009,Africa,Tanzania,22,17,26.8
+2008,Africa,Tanzania,21.3,16.7,25.8
+2007,Africa,Tanzania,20.6,16.3,24.8
+2006,Africa,Tanzania,20,15.9,23.8
+2005,Africa,Tanzania,19.3,15.5,22.9
+2004,Africa,Tanzania,18.6,15.1,21.9
+2003,Africa,Tanzania,17.9,14.6,21
+2002,Africa,Tanzania,17.2,14.2,20.1
+2001,Africa,Tanzania,16.6,13.8,19.3
+2000,Africa,Tanzania,16,13.3,18.4
+1999,Africa,Tanzania,15.4,12.9,17.7
+1998,Africa,Tanzania,14.8,12.5,16.9
+1997,Africa,Tanzania,14.2,12.1,16.2
+1996,Africa,Tanzania,13.7,11.7,15.6
+1995,Africa,Tanzania,13.2,11.4,14.9
+1994,Africa,Tanzania,12.7,11,14.4
+1993,Africa,Tanzania,12.3,10.6,13.8
+1992,Africa,Tanzania,11.8,10.3,13.3
+1991,Africa,Tanzania,11.4,10,12.8
+1990,Africa,Tanzania,11,9.6,12.3
 2022,Americas,United States of America,72.4,74.7,70.3
 2021,Americas,United States of America,72.1,74.5,69.7
 2020,Americas,United States of America,71.7,74.3,69.2
@@ -6401,72 +6401,72 @@ Year,Region,Country,Both,Male,Female
 1992,Western Pacific,Vanuatu,42.9,42.2,43.6
 1991,Western Pacific,Vanuatu,42.5,42,43
 1990,Western Pacific,Vanuatu,42.1,41.8,42.4
-2022,Americas,Venezuela (Bolivarian Republic of),53.5,52.7,53.8
-2021,Americas,Venezuela (Bolivarian Republic of),53.9,53.3,54.2
-2020,Americas,Venezuela (Bolivarian Republic of),54.4,53.8,54.5
-2019,Americas,Venezuela (Bolivarian Republic of),54.8,54.4,54.8
-2018,Americas,Venezuela (Bolivarian Republic of),55.2,55,55.1
-2017,Americas,Venezuela (Bolivarian Republic of),55.6,55.6,55.4
-2016,Americas,Venezuela (Bolivarian Republic of),56,56.1,55.6
-2015,Americas,Venezuela (Bolivarian Republic of),56.3,56.6,55.8
-2014,Americas,Venezuela (Bolivarian Republic of),56.6,57,56
-2013,Americas,Venezuela (Bolivarian Republic of),56.8,57.3,56.1
-2012,Americas,Venezuela (Bolivarian Republic of),57,57.6,56.1
-2011,Americas,Venezuela (Bolivarian Republic of),57.1,57.7,56.1
-2010,Americas,Venezuela (Bolivarian Republic of),57.1,57.8,56.1
-2009,Americas,Venezuela (Bolivarian Republic of),57.1,57.9,56.1
-2008,Americas,Venezuela (Bolivarian Republic of),57.1,57.8,56.1
-2007,Americas,Venezuela (Bolivarian Republic of),57,57.7,56
-2006,Americas,Venezuela (Bolivarian Republic of),56.8,57.6,55.9
-2005,Americas,Venezuela (Bolivarian Republic of),56.6,57.3,55.7
-2004,Americas,Venezuela (Bolivarian Republic of),56.4,57,55.5
-2003,Americas,Venezuela (Bolivarian Republic of),56.1,56.7,55.3
-2002,Americas,Venezuela (Bolivarian Republic of),55.7,56.2,55
-2001,Americas,Venezuela (Bolivarian Republic of),55.2,55.7,54.6
-2000,Americas,Venezuela (Bolivarian Republic of),54.7,55.1,54.2
-1999,Americas,Venezuela (Bolivarian Republic of),54.1,54.4,53.6
-1998,Americas,Venezuela (Bolivarian Republic of),53.4,53.7,53.1
-1997,Americas,Venezuela (Bolivarian Republic of),52.7,52.9,52.4
-1996,Americas,Venezuela (Bolivarian Republic of),51.9,52,51.7
-1995,Americas,Venezuela (Bolivarian Republic of),51.1,51.1,51
-1994,Americas,Venezuela (Bolivarian Republic of),50.3,50.2,50.3
-1993,Americas,Venezuela (Bolivarian Republic of),49.4,49.2,49.5
-1992,Americas,Venezuela (Bolivarian Republic of),48.5,48.2,48.7
-1991,Americas,Venezuela (Bolivarian Republic of),47.5,47.1,47.8
-1990,Americas,Venezuela (Bolivarian Republic of),46.6,46.1,47
-2022,Western Pacific,Viet Nam,18.2,18.7,17.5
-2021,Western Pacific,Viet Nam,17.3,17.6,16.7
-2020,Western Pacific,Viet Nam,16.3,16.5,15.9
-2019,Western Pacific,Viet Nam,15.4,15.5,15.1
-2018,Western Pacific,Viet Nam,14.5,14.5,14.3
-2017,Western Pacific,Viet Nam,13.6,13.6,13.5
-2016,Western Pacific,Viet Nam,12.8,12.6,12.7
-2015,Western Pacific,Viet Nam,12,11.7,12
-2014,Western Pacific,Viet Nam,11.2,10.9,11.3
-2013,Western Pacific,Viet Nam,10.4,10,10.6
-2012,Western Pacific,Viet Nam,9.7,9.3,9.9
-2011,Western Pacific,Viet Nam,9,8.5,9.3
-2010,Western Pacific,Viet Nam,8.4,7.9,8.7
-2009,Western Pacific,Viet Nam,7.8,7.2,8.2
-2008,Western Pacific,Viet Nam,7.2,6.6,7.7
-2007,Western Pacific,Viet Nam,6.7,6.1,7.2
-2006,Western Pacific,Viet Nam,6.3,5.6,6.8
-2005,Western Pacific,Viet Nam,5.9,5.1,6.5
-2004,Western Pacific,Viet Nam,5.5,4.7,6.1
-2003,Western Pacific,Viet Nam,5.2,4.3,5.8
-2002,Western Pacific,Viet Nam,4.9,4,5.6
-2001,Western Pacific,Viet Nam,4.6,3.7,5.3
-2000,Western Pacific,Viet Nam,4.3,3.5,5.1
-1999,Western Pacific,Viet Nam,4.1,3.2,4.9
-1998,Western Pacific,Viet Nam,3.9,3,4.7
-1997,Western Pacific,Viet Nam,3.7,2.9,4.5
-1996,Western Pacific,Viet Nam,3.6,2.7,4.3
-1995,Western Pacific,Viet Nam,3.4,2.6,4.1
-1994,Western Pacific,Viet Nam,3.3,2.4,4
-1993,Western Pacific,Viet Nam,3.1,2.4,3.8
-1992,Western Pacific,Viet Nam,3,2.3,3.7
-1991,Western Pacific,Viet Nam,2.9,2.2,3.5
-1990,Western Pacific,Viet Nam,2.8,2.1,3.4
+2022,Americas,Venezuela,53.5,52.7,53.8
+2021,Americas,Venezuela,53.9,53.3,54.2
+2020,Americas,Venezuela,54.4,53.8,54.5
+2019,Americas,Venezuela,54.8,54.4,54.8
+2018,Americas,Venezuela,55.2,55,55.1
+2017,Americas,Venezuela,55.6,55.6,55.4
+2016,Americas,Venezuela,56,56.1,55.6
+2015,Americas,Venezuela,56.3,56.6,55.8
+2014,Americas,Venezuela,56.6,57,56
+2013,Americas,Venezuela,56.8,57.3,56.1
+2012,Americas,Venezuela,57,57.6,56.1
+2011,Americas,Venezuela,57.1,57.7,56.1
+2010,Americas,Venezuela,57.1,57.8,56.1
+2009,Americas,Venezuela,57.1,57.9,56.1
+2008,Americas,Venezuela,57.1,57.8,56.1
+2007,Americas,Venezuela,57,57.7,56
+2006,Americas,Venezuela,56.8,57.6,55.9
+2005,Americas,Venezuela,56.6,57.3,55.7
+2004,Americas,Venezuela,56.4,57,55.5
+2003,Americas,Venezuela,56.1,56.7,55.3
+2002,Americas,Venezuela,55.7,56.2,55
+2001,Americas,Venezuela,55.2,55.7,54.6
+2000,Americas,Venezuela,54.7,55.1,54.2
+1999,Americas,Venezuela,54.1,54.4,53.6
+1998,Americas,Venezuela,53.4,53.7,53.1
+1997,Americas,Venezuela,52.7,52.9,52.4
+1996,Americas,Venezuela,51.9,52,51.7
+1995,Americas,Venezuela,51.1,51.1,51
+1994,Americas,Venezuela,50.3,50.2,50.3
+1993,Americas,Venezuela,49.4,49.2,49.5
+1992,Americas,Venezuela,48.5,48.2,48.7
+1991,Americas,Venezuela,47.5,47.1,47.8
+1990,Americas,Venezuela,46.6,46.1,47
+2022,Western Pacific,Vietnam,18.2,18.7,17.5
+2021,Western Pacific,Vietnam,17.3,17.6,16.7
+2020,Western Pacific,Vietnam,16.3,16.5,15.9
+2019,Western Pacific,Vietnam,15.4,15.5,15.1
+2018,Western Pacific,Vietnam,14.5,14.5,14.3
+2017,Western Pacific,Vietnam,13.6,13.6,13.5
+2016,Western Pacific,Vietnam,12.8,12.6,12.7
+2015,Western Pacific,Vietnam,12,11.7,12
+2014,Western Pacific,Vietnam,11.2,10.9,11.3
+2013,Western Pacific,Vietnam,10.4,10,10.6
+2012,Western Pacific,Vietnam,9.7,9.3,9.9
+2011,Western Pacific,Vietnam,9,8.5,9.3
+2010,Western Pacific,Vietnam,8.4,7.9,8.7
+2009,Western Pacific,Vietnam,7.8,7.2,8.2
+2008,Western Pacific,Vietnam,7.2,6.6,7.7
+2007,Western Pacific,Vietnam,6.7,6.1,7.2
+2006,Western Pacific,Vietnam,6.3,5.6,6.8
+2005,Western Pacific,Vietnam,5.9,5.1,6.5
+2004,Western Pacific,Vietnam,5.5,4.7,6.1
+2003,Western Pacific,Vietnam,5.2,4.3,5.8
+2002,Western Pacific,Vietnam,4.9,4,5.6
+2001,Western Pacific,Vietnam,4.6,3.7,5.3
+2000,Western Pacific,Vietnam,4.3,3.5,5.1
+1999,Western Pacific,Vietnam,4.1,3.2,4.9
+1998,Western Pacific,Vietnam,3.9,3,4.7
+1997,Western Pacific,Vietnam,3.7,2.9,4.5
+1996,Western Pacific,Vietnam,3.6,2.7,4.3
+1995,Western Pacific,Vietnam,3.4,2.6,4.1
+1994,Western Pacific,Vietnam,3.3,2.4,4
+1993,Western Pacific,Vietnam,3.1,2.4,3.8
+1992,Western Pacific,Vietnam,3,2.3,3.7
+1991,Western Pacific,Vietnam,2.9,2.2,3.5
+1990,Western Pacific,Vietnam,2.8,2.1,3.4
 2022,Eastern Mediterranean,Yemen,37.3,33,41.5
 2021,Eastern Mediterranean,Yemen,36.6,32.5,40.6
 2020,Eastern Mediterranean,Yemen,35.9,32,39.7
