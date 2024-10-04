@@ -5,46 +5,61 @@
   "data": {
     "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/A2/data/risk_factors.csv"
   },
-  "transform": [
-    {
-      "filter": "datum.Year === 2021"
-    }
-  ],
-  "encoding": {
-    "y": {
-      "field": "Deaths by Risk Factor",
-      "type": "nominal",
-      "title": "Risk Factors"
-    },
-    "x": {
-      "field": "Estimated Deaths (per 100,000)",
-      "type": "quantitative",
-      "title": "Number of Deaths"
-    },
-    "tooltip": [
-      {
-        "field": "Deaths by Risk Factor",
-        "type": "nominal",
-        "title": "Risk Factor"
-      },
-      {
-        "field": "Estimated Deaths (per 100,000)",
-        "type": "quantitative",
-        "title": "Number of Deaths"
-      }
-    ]
-  },
   "layer": [
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 100,
+        "fontWeight": "bold",
+        "opacity": 0.1,  
+        "align": "center",
+        "baseline": "middle"
+      },
+      "encoding": {
+        "x": {
+          "value": 400 
+        },
+        "y": {
+          "value": 250 
+        },
+        "text": {
+          "value": "2021"
+        },
+        "color": { "value": "lightgray" }
+      }
+    },
     {
       "mark": "bar",
       "encoding": {
+        "y": {
+          "field": "Deaths by Risk Factor",
+          "type": "nominal",
+          "title": "Risk Factors"
+        },
+        "x": {
+          "field": "Estimated Deaths (per 100,000)",
+          "type": "quantitative",
+          "title": "Number of Deaths"
+        },
         "color": {
           "condition": {
-            "test": "datum['Deaths by Risk Factor'] === 'Obesity'",  
-            "value": "red"  
+            "test": "datum['Deaths by Risk Factor'] === 'Obesity'",
+            "value": "red"
           },
-          "value": "steelblue"  
-        }
+          "value": "steelblue"
+        },
+        "tooltip": [
+          {
+            "field": "Deaths by Risk Factor",
+            "type": "nominal",
+            "title": "Risk Factor"
+          },
+          {
+            "field": "Estimated Deaths (per 100,000)",
+            "type": "quantitative",
+            "title": "Number of Deaths"
+          }
+        ]
       }
     },
     {
