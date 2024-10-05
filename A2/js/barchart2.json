@@ -26,6 +26,10 @@
         "color": {
           "field": "Region",
           "type": "nominal",
+          "scale": {
+            "domain": ["Africa", "Americas", "Eastern Mediterranean", "Europe", "South-East Asia", "Western Pacific"],
+            "range": ["#D81B60", "#FF7300", "#FFC107", "#1BCAD8", "#1E88E5", "#9467BD"]
+          },
           "legend": {
             "title": "Region"
           }
@@ -64,6 +68,10 @@
         "color": {
           "field": "Region",
           "type": "nominal",
+          "scale": {
+            "domain": ["Africa", "Americas", "Eastern Mediterranean", "Europe", "South-East Asia", "Western Pacific"],
+            "range": ["#D81B60", "#FF7300", "#FFC107", "#1BCAD8", "#1E88E5", "#9467BD"]
+          },
           "legend": {
             "title": "Region"
           }
