@@ -154,8 +154,10 @@
     <h3 class="subsubtitle" style="padding-top: 2%;">
       Prevalence of Overweight and Obesity of Each Region
     </h3>
+    <div class="barchart">
+      <div id="barchart2"></div>    
+    </div>
     <div class="outer">
-      <div id="heatmap"></div>
       <p style="padding-right: 21%; padding-left: 21%; text-align: justify;">
         <br/>
         <strong style="color: #9467BD;">Western Pacific</strong> has the highest rate of 
@@ -164,9 +166,8 @@
         On the other hand, <strong style="color: #9467BD;">Western Pacific</strong> has the highest rate of 
         <strong>obesity</strong>, followed by <strong style="color: #FF7300;">Americas</strong>, <strong style="color: #FFC107;">Eastern Mediterranean</strong> and <strong style="color: #1BCAD8;">Europe</strong>.
         Thus, we can conclude that <strong style="color: #9467BD;">Western Pacific</strong> has the <strong>highest prevalence of overweight and obesity</strong> since 1990 to 2022.
-      </p>    
+      </p>
     </div>
-
     <br/>
 
     
@@ -241,8 +242,8 @@
       var choropleth_region = 'js/choropleth_region.json';
       vegaEmbed('#choropleth_region', choropleth_region);
 
-      var heatmap = 'js/heatmap.json';
-      vegaEmbed('#heatmap', heatmap);
+      var barchart2 = 'js/barchart2.json';
+      vegaEmbed('#barchart2', barchart2);
 
       var scatterplot = 'js/scatterplot.json';
       vegaEmbed('#scatterplot', scatterplot);

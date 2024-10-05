@@ -84,6 +84,14 @@
     justify-content: space-evenly;
 }
 
+.barchart {
+    border: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 150px;
+}
+
 .my {
     font-family: 'Roboto Slab', serif;
     font-size: 16px;

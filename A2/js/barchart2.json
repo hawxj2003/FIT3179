@@ -1,0 +1,84 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/A2/data/barchart_region.csv"
+  },
+  "hconcat": [
+    {
+      "mark": "bar",
+      "width": 500,
+      "height": 300,
+      "encoding": {
+        "x": {
+          "field": "Region",
+          "type": "nominal",
+          "axis": {
+            "labelAngle": 0,
+            "labelOverlap": false,
+            "title": "Region"
+          }
+        },
+        "y": {
+          "field": "Both",
+          "type": "quantitative",
+          "title": "Obesity Prevalence (%)"
+        },
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "legend": {
+            "title": "Region"
+          }
+        },
+        "tooltip": [
+          {"field": "Region", "type": "nominal"},
+          {"field": "Both", "type": "quantitative", "title": "Obesity Prevalence (%)"}
+        ]
+      },
+      "transform": [
+        {
+          "filter": "datum['Severity of Excessive Fat Accumulation'] === 'Obesity'"
+        }
+      ],
+      "title": "Obesity Prevalence by Region"
+    },
+    {
+      "mark": "bar",
+      "width": 500,
+      "height": 300,
+      "encoding": {
+        "x": {
+          "field": "Region",
+          "type": "nominal",
+          "axis": {
+            "labelAngle": 0,
+            "labelOverlap": false,
+            "title": "Region"
+          }
+        },
+        "y": {
+          "field": "Both",
+          "type": "quantitative",
+          "title": "Overweight Prevalence (%)"
+        },
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "legend": {
+            "title": "Region"
+          }
+        },
+        "tooltip": [
+          {"field": "Region", "type": "nominal"},
+          {"field": "Both", "type": "quantitative", "title": "Overweight Prevalence (%)"}
+        ]
+      },
+      "transform": [
+        {
+          "filter": "datum['Severity of Excessive Fat Accumulation'] === 'Overweight'"
+        }
+      ],
+      "title": "Overweight Prevalence by Region"
+    }
+  ]
+}
