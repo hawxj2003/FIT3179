@@ -42,10 +42,19 @@
           "title": "Number of Deaths (per 100,000)"
         },
         "color": {
-          "condition": {
+          "condition": [
+          {
             "test": "datum['Deaths by Risk Factor'] === 'Obesity'",
             "value": "red"
           },
+
+          {
+            "test": "datum['Deaths by Risk Factor'] === 'High blood pressure' || datum['Deaths by Risk Factor'] === 'High blood sugar' || datum['Deaths by Risk Factor'] === 'High cholesterol' || datum['Deaths by Risk Factor'] === 'Diet high in sodium' || datum['Deaths by Risk Factor'] === 'High blood sugar' || datum['Deaths by Risk Factor'] === 'High cholesterol' || datum['Deaths by Risk Factor'] === 'Diet low in fruits' || datum['Deaths by Risk Factor'] === 'Diet low in vegetables'",
+            "value": "orange"
+          }
+        ],
+          
+          
           "value": "steelblue"
         },
         "tooltip": [
