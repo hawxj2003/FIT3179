@@ -5,7 +5,7 @@
     "height":150,
     "encoding": {
       "x": {
-        "field": "Country",
+        "field": "Region",
         "type": "nominal",
         "axis": {
           "labelAngle": 0,
@@ -25,7 +25,7 @@
       "view": {"step": 40},
       "range": {
         "ramp": {
-          "scheme": "yelloworangered"
+          "scheme": "reds"
         }
       },
       "axis": {
@@ -44,7 +44,7 @@
         "mark": {"type": "rect", "strokeWidth": 2},
         "encoding": {
           "x": {
-            "field": "Country",
+            "field": "Region",
             "type": "nominal",
             "title": null,
             "axis": {
