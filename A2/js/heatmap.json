@@ -25,7 +25,7 @@
       "view": {"step": 40},
       "range": {
         "ramp": {
-          "scheme": "reds"
+          "scheme": "yellowgreenblue"
         }
       },
       "axis": {
@@ -67,7 +67,10 @@
           "fill": {
             "field": "Both",
             "type": "quantitative",
-            "title": "Prevalence (%)"
+            "title": "Prevalence (%)",
+            "scale": {
+                "scheme": "blues"
+            }
           },
           "stroke": {
             "condition": {

@@ -241,7 +241,32 @@
                         }
                     }
                 },
-  
+                
+                {
+                  "mark": {
+                    "type": "text",
+                    "yOffset": -12,
+                    "fontSize": 12,
+                    "fontWeight": "bold"
+                  },
+
+                  "encoding": {
+                      "fillOpacity": {
+                        "condition": {"param": "clicked", "value": 1},
+                        "value": 0.3
+                        },
+                      "opacity":{
+                        "condition":{"param":"continent_selection", "value": 1},
+                        "value":0
+                        },
+                      "text":{
+                          "condition":{
+                              "test": "datum['Entity'] === 'American Samoa'", "value": "American Samoa"
+                          }
+                      }
+                  }
+                },
+
                 {
                     "mark": {
                       "type": "text",
@@ -261,7 +286,7 @@
                           },
                         "text":{
                             "condition":{
-                                "test": "datum['Entity'] === 'Mexico'", "value": "Mexico"
+                                "test": "datum['Entity'] === 'United States'", "value": "United States"
                             }
                         }
                     }
@@ -311,7 +336,7 @@
                           },
                         "text":{
                             "condition":{
-                                "test": "datum['Entity'] === 'Iran'", "value": "Iran"
+                                "test": "datum['Entity'] === 'South Sudan'", "value": "South Sudan"
                             }
                         }
                     }
@@ -336,7 +361,7 @@
                           },
                         "text":{
                             "condition":{
-                                "test": "datum['Entity'] === 'South Africa'", "value": "South Africa"
+                                "test": "datum['Entity'] === 'Ethiopia'", "value": "Ethiopia"
                             }
                         }
                     }
