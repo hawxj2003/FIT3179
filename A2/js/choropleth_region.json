@@ -1,51 +1,30 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 640,
-    "height": 480,
-    "params": [
-        {
-            "name": "rotateX",
-            "value": 0,
-            "bind":{
-                "input": "range",
-                "min": -180,
-                "max": 180,
-                "step": 5,
-                "name": "Rotation X:"
-            }
-        },
+    "width": 900,
+    "height": 340,
 
-        {
-            "name": "rotateY",
-            "value": 0,
-            "bind":{
-                "input": "range",
-                "min": -180,
-                "max": 180,
-                "step": 5,
-                "name": "Rotation Y:"
-            }
-        },
-
-        {
-            "name": "rotate",
-            "expr": "[rotateX, rotateY]"
-        }
-    ],
     "projection": {
-        "type": "orthographic",
-        "rotate": {"expr": "rotate"}
+        "type": "equalEarth"
+        
     },
     "layer":[
         {
             "data": {
-                "graticule": true
+              "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+              "format": { "type": "topojson", "feature": "oceans" }
+            },
+            "mark": { "type": "geoshape", "fill": "#e4f2f7" }
+        },
+        {
+            "data": {
+              "url": "https://raw.githubusercontent.com/hawxj2003/FIT3179/refs/heads/main/A2/data/ne_110m_graticules_30.json",
+              "format": { "type": "topojson", "feature": "ne_110m_graticules_30" }
             },
             "mark": {
-                "type": "geoshape",
-                "fill": "#e8f0fc",
-                "stroke": "black",
-                "strokeWidth": 0.1
+              "type": "geoshape",
+              "stroke": "#999999",
+              "strokeWidth": 1.2,
+              "fill": null
             }
         },
 
