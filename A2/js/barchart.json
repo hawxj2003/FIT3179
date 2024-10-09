@@ -43,18 +43,15 @@
         },
         "color": {
           "condition": [
-          {
-            "test": "datum['Deaths by Risk Factor'] === 'Obesity'",
-            "value": "red"
-          },
-
-          {
-            "test": "datum['Deaths by Risk Factor'] === 'High blood pressure' || datum['Deaths by Risk Factor'] === 'High blood sugar' || datum['Deaths by Risk Factor'] === 'High cholesterol' || datum['Deaths by Risk Factor'] === 'Diet high in sodium' || datum['Deaths by Risk Factor'] === 'High blood sugar' || datum['Deaths by Risk Factor'] === 'High cholesterol' || datum['Deaths by Risk Factor'] === 'Diet low in fruits' || datum['Deaths by Risk Factor'] === 'Diet low in vegetables'",
-            "value": "orange"
-          }
-        ],
-          
-          
+            {
+              "test": "datum['Deaths by Risk Factor'] === 'Obesity'",
+              "value": "red"
+            },
+            {
+              "test": "datum['Deaths by Risk Factor'] === 'High blood pressure' || datum['Deaths by Risk Factor'] === 'High blood sugar' || datum['Deaths by Risk Factor'] === 'High cholesterol' || datum['Deaths by Risk Factor'] === 'Diet high in sodium' || datum['Deaths by Risk Factor'] === 'Diet low in fruits' || datum['Deaths by Risk Factor'] === 'Diet low in vegetables'",
+              "value": "orange"
+            }
+          ],
           "value": "steelblue"
         },
         "tooltip": [
@@ -88,9 +85,13 @@
           "type": "nominal"
         },
         "text": {
-          "field": "Estimated Deaths (per 100,000)",
-          "type": "quantitative",
-          "format": ".0f"
+          "condition": {
+            "test": "datum['Deaths by Risk Factor'] === 'Obesity' || datum['Deaths by Risk Factor'] === 'High blood pressure' || datum['Deaths by Risk Factor'] === 'High blood sugar' || datum['Deaths by Risk Factor'] === 'High cholesterol' || datum['Deaths by Risk Factor'] === 'Diet high in sodium' || datum['Deaths by Risk Factor'] === 'Diet low in fruits' || datum['Deaths by Risk Factor'] === 'Diet low in vegetables'",
+            "field": "Estimated Deaths (per 100,000)",
+            "type": "quantitative",
+            "format": ".0f"
+          },
+          "value": ""
         },
         "color": { "value": "black" }
       }
